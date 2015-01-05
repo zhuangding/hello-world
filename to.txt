@@ -1,0 +1,1007 @@
+PMID - 11193424
+TI - Molecular cloning and characterization of a cDNA for a rice <GENE> Sec31p homolog </GENE> .
+AB - A cDNA for a putative <GENE> Sec31p </GENE> in rice has been cloned and sequenced .
+In yeast , <GENE> Sec31p </GENE> is a component of a protein - coated vesicle , COPII , which functions in the transport of cargo proteins from the endoplasmic reticulum to the cis - Golgi network .
+Structural similarities between yeast Sec31p and the rice putative homolog are discussed .
+PMID - 11827163
+TI - Cloning and characterization of the cDNA coding for the catalytic alpha subunit of <GENE> CK2 </GENE> from tobacco .
+AB - We have previously reported the participation of the <GENE> protein kinase CK2 </GENE> in the mechanism by which salicylic acid activates transcription of genes , such as those coding for <GENE> glutathion S - transferases </GENE> , in tobacco .
+With the purpose of further studying the participation of <GENE> CK2 </GENE> in this signal transduction pathway , we isolated and sequenced the cDNA from the <GENE> NtCK2A gene </GENE> , coding for the catalytic alpha subunit of <GENE> CK2 </GENE> from tobacco .
+The <GENE> NtCK2A cDNA </GENE> was isolated by screening of a tobacco cDNA library with a heterologous probe from Arabidopsis thaliana , followed by 3 ' RACE to obtain the 3 ' region .
+Sequence analysis of the <GENE> NtCK2A cDNA </GENE> showed a high level of identity between this <GENE> CK2alpha protein sequence </GENE> and the corresponding sequences of other plant species such as Arabidopsis and maize ( 92 - 95 % identity ) , or those of animal species such as human and Xenopus laevis ( 75 % identity ) .
+The expression of the <GENE> NtCK2A gene </GENE> in different tissues from tobacco plants was analyzed by Northern blot .
+High levels of expression of this gene were observed in proliferating tissues such as shoot and root apical meristems .
+A <GENE> recombinant CK2alpha protein </GENE> was obtained after expression of the <GENE> NtCK2A </GENE> cDNA in Escherichia coli .
+The ability of this <GENE> recombinant CK2alpha subunit </GENE> to phosphorylate <GENE> casein </GENE> was inhibited by heparin and stimulated by the <GENE> CK2beta subunit </GENE> from Xenopus laevis .
+PMID - 12496310
+TI - Manganese specificity determinants in the Arabidopsis metal / H + antiporter CAX2 .
+AB - In plants and fungi , <GENE> vacuolar transporters </GENE> help remove potentially toxic cations from the cytosol .
+Metal / H ( + ) antiporters are involved in metal sequestration into the vacuole .
+However , the specific transport properties and the ability to manipulate these transporters to alter substrate specificity are poorly understood .
+The Arabidopsis thaliana cation exchangers , <GENE> CAX1 </GENE> and <GENE> CAX2 </GENE> , can both transport Ca ( 2 + ) into the vacuole .
+There are <GENE> 11 CAX - like transporters </GENE> in Arabidopsis ; however , <GENE> CAX2 </GENE> was the only characterized <GENE> CAX transporter </GENE> capable of vacuolar Mn ( 2 + ) transport when expressed in yeast .
+To determine the domains within <GENE> CAX2 </GENE> that mediate Mn ( 2 + ) specificity , six <GENE> CAX2 mutants </GENE> were constructed that contained different regions of the <GENE> CAX1 transporter </GENE> .
+One class displayed no alterations in Mn ( 2 + ) or Ca ( 2 + ) transport , the second class showed a reduction in Ca ( 2 + ) transport and no measurable Mn ( 2 + ) transport , and the third mutant , which contained a 10 - amino acid domain from <GENE> CAX1 </GENE> ( <GENE> CAX2 - C </GENE> ) , showed no reduction in Ca ( 2 + ) transport and a complete loss of Mn ( 2 + ) transport .
+The subdomain analysis of <GENE> CAX2 - C </GENE> identified a 3 - amino acid region that is responsible for Mn ( 2 + ) specificity of <GENE> CAX2 </GENE> .
+This study provides evidence for the feasibility of altering substrate specificity in a metal / H ( + ) antiporter , an important family of transporters found in a variety of organisms .
+PMID - 15821989
+TI - Promotion of photomorphogenesis by <GENE> COP1 </GENE> .
+<GENE> AB - CONSTITUTIVE PHOTOMORPHOGENIC 1 </GENE> ( <GENE> COP1 </GENE> ) represses photomorphogenesis in darkness by targeting nuclear - localized transcription factors to proteasome - mediated degradation .
+Upon light exposure , <GENE> COP1 </GENE> migrates to the cytosol allowing photomorphogenesis to proceed but the residual nuclear pool down - regulates light signaling mediated by <GENE> phytochrome A </GENE> .
+Here we show that weak alleles of <GENE> cop1 </GENE> exhibit reverse photomorphogenic responses i . e . reduced rather than enhanced cotyledon unfolding under red light compared to darkness .
+Conversely , <GENE> COP1 </GENE> overexpressors which de - etiolate poorly under blue or far - red light , showed enhanced photomorphogenesis under red light .
+The positive relationship between <GENE> COP1 </GENE> and <GENE> photomorphogenic response required phytochrome B </GENE> .
+Thus , genetic manipulation of <GENE> COP1 </GENE> levels differentially affects phytochrome A - compared to <GENE> phytochrome B </GENE> - mediated responses .
+We hypothesize that <GENE> COP1 </GENE> could be involved in degradation of negative regulators of photomorphogenesis or in transcriptional activation , as observed for some <GENE> E3 ligases </GENE> in mammalian development .
+PMID - 23370720
+TI - A cyclic nucleotide - gated channel ( CNGC16 ) in pollen is critical for stress tolerance in pollen reproductive development .
+AB - Cyclic nucleotide - gated channels ( CNGCs ) have been implicated in diverse aspects of plant growth and development , including responses to biotic and abiotic stress , as well as pollen tube growth and fertility .
+Here , genetic evidence identifies CNGC16 in Arabidopsis ( Arabidopsis thaliana ) as critical for pollen fertility under conditions of heat stress and drought .
+Two independent transfer DNA disruptions of <GENE> cngc16 </GENE> resulted in a greater than 10 - fold stress - dependent reduction in pollen fitness and seed set .
+This phenotype was fully rescued through pollen expression of a <GENE> CNGC16 transgene </GENE> , indicating that <GENE> cngc16 - 1 </GENE> and 16 - 2 were both loss - of - function null alleles .
+The most stress - sensitive period for cngc16 pollen was during germination and the initiation of pollen tube tip growth .
+Pollen viability assays indicate that mutant pollen are also hypersensitive to external calcium chloride , a phenomenon analogous to calcium chloride hypersensitivities observed in other <GENE> cngc mutants </GENE> .
+A heat stress was found to increase concentrations of 3 ' , 5 ' - cyclic guanyl monophosphate in both pollen and leaves , as detected using an antibody - binding assay .
+A quantitative PCR analysis indicates that <GENE> cngc16 mutant </GENE> pollen have attenuated expression of several heat - stress response genes , including two <GENE> heat shock transcription factor genes </GENE> , <GENE> HsfA2 </GENE> and <GENE> HsfB1 </GENE> .
+Together , these results provide evidence for a heat stress response pathway in pollen that connects a cyclic nucleotide signal , a Ca ( 2 + ) - permeable ion channel , and a signaling network that activates a downstream transcriptional heat shock response .
+PMID - 11211866
+TI - Interaction of <GENE> PRK1 receptor - like kinase </GENE> with a putative <GENE> elF2B beta - subunit </GENE> in tobacco .
+<GENE> AB - PRK1 </GENE> , <GENE> a receptor - like kinase </GENE> that is expressed in pollen , pollen tubes , and ovaries , has been shown to play important roles in pollen development and embryo sac development in Petunia inflata .
+We have used the kinase domain of <GENE> PRK1 </GENE> as a bait in the yeast two - hybrid system to identify <GENE> PRK1 - interacting proteins </GENE> .
+The screening resulted in isolation of a cDNA encoding a protein highly homologous to the human and yeast beta - subunit of <GENE> translation initiation factor 2B </GENE> ( <GENE> eIF2B - beta </GENE> ) , which was designated <GENE> NeIF2Bbeta </GENE> .
+<GENE> eIF2B </GENE> is a guanine nucleotide exchange protein that functions in the regulation of translation in eukaryotic cells .
+Deletion mutants of <GENE> NeIF2Bbeta </GENE> were analyzed for their interaction with <GENE> PRK1 </GENE> , and the results suggested that the N - terminal half of <GENE> NeIF2Bbeta </GENE> , especially the region between residue 103 and 235 , is important for the interaction .
+This protein association was confirmed by in vitro binding assay of the <GENE> recombinant NeIF2Bbeta </GENE> and <GENE> PRK1 proteins </GENE> .
+Despite high sequence homology between <GENE> NeIF2Bbeta </GENE> and its yeast counterpart , the <GENE> NeIF2Bbeta cDNA </GENE> could not rescue the phenotype of the yeast mutant strain lacking the <GENE> GCD7 gene </GENE> encoding <GENE> eIF2B - beta </GENE> , when transferred into the mutant strain .
+PMID - 12526807
+<GENE> TI </GENE> - <GENE> ROS1 </GENE> , a repressor of transcriptional gene silencing in Arabidopsis , encodes a <GENE> DNA glycosylase / lyase </GENE> .
+AB - Mutations in the Arabidopsis <GENE> ROS1 </GENE> locus cause transcriptional silencing of a transgene and a homologous endogenous gene .
+In the <GENE> ros1 mutants </GENE> , the promoter of the silenced loci is hypermethylated , which may be triggered by small RNAs produced from the transgene repeats .
+The transcriptional silencing in <GENE> ros1 mutants </GENE> can be released by the <GENE> ddm1 mutation </GENE> or the application of the DNA methylation inhibitor 5 - aza - 2 ' - deoxycytidine .
+<GENE> ROS1 </GENE> encodes an <GENE> endonuclease III domain nuclear protein </GENE> with <GENE> bifunctional DNA glycosylase </GENE> / <GENE> lyase </GENE> activity against methylated but not unmethylated DNA .
+The <GENE> ros1 mutant </GENE> shows enhanced sensitivity to genotoxic agents methyl methanesulfonate and hydrogen peroxide .
+We suggest that <GENE> ROS1 </GENE> is a DNA repair protein that represses homology - dependent transcriptional gene silencing by demethylating the target promoter DNA .
+PMID - 17989233
+<GENE> TI - ATM </GENE> regulates the length of individual telomere tracts in Arabidopsis .
+AB - Telomeres have the paradoxical ability of protecting linear chromosome ends from DNA damage sensors by using these same proteins as essential components of their maintenance machinery .
+We have previously shown that the absence of ataxia telangiectasia mutated ( ATM ) , a central regulator of the DNA damage response , accelerates the onset of genome instability in <GENE> telomerase </GENE> - deficient Arabidopsis , without increasing the rate of bulk telomere shortening .
+Here , we examine individual telomere tracts through successive plant generations using both fluorescence situ in hybridization ( FISH ) and primer extension telomere repeat amplification ( PETRA ) .
+Unexpectedly , we found that the onset of profound developmental defects and abundant end - to - end chromosome fusions in fifth generation ( G ( 5 ) ) atm tert mutants required the presence of only one critically shortened telomere .
+Parent progeny analysis revealed that the short telomere arose as a consequence of an unusually large telomere rapid deletion ( TRD ) event .
+The most dramatic TRD was detected in atm tert mutants that had undergone meiosis .
+Notably , in contrast to <GENE> TRD </GENE> , alternative lengthening of telomeres ( ALT ) was suppressed in the absence of <GENE> ATM </GENE> .
+Finally , we show that size differences between telomeres on homologous chromosome ends are greater for atm tert than tert plants .
+Altogether , these findings suggest a dual role for <GENE> ATM </GENE> in regulating telomere size by promoting elongation of short telomeres and by preventing the accumulation of cells that harbor large telomere deletions .
+PMID - 18667726
+TI - Arabidopsis SOMATIC EMBRYOGENESIS RECEPTOR KINASE proteins serve brassinosteroid - dependent and - independent signaling pathways .
+AB - The Arabidopsis ( Arabidopsis thaliana ) SOMATIC EMBRYOGENESIS RECEPTOR KINASE ( SERK ) genes belong to a <GENE> small family of five plant receptor kinases </GENE> that are involved in atleast five different signaling pathways .
+One member of this family , <GENE> BRASSINOSTEROID INSENSITIVE1 </GENE> ( <GENE> BRI1 </GENE> ) - <GENE> ASSOCIATED KINASE1 </GENE> ( <GENE> BAK1 </GENE> ) , also known as <GENE> SERK3 </GENE> , is the coreceptor of the brassinolide ( BR ) - perceiving receptor <GENE> BRI1 </GENE> , a function that is BR dependent and partially redundant with <GENE> SERK1 </GENE> .
+<GENE> BAK1 </GENE> ( <GENE> SERK3 </GENE> ) alone controls plant innate immunity , is also the coreceptor of the <GENE> flagellin receptor </GENE> FLS2 , and , together with <GENE> SERK4 </GENE> , can mediate cell death control , all three in a BR - independent fashion .
+<GENE> SERK1 </GENE> and <GENE> SERK2 </GENE> are essential for male microsporogenesis , again independent from BR .
+<GENE> SERK5 </GENE> does not appear to have any function under the conditions tested .
+Here , we show that the different <GENE> SERK </GENE> members are only redundant in pairs , whereas higher order mutant combinations only show additive phenotypes .
+Surprisingly , <GENE> SERK </GENE> members that are redundant within one are not redundant in another pathway .
+We also show that this evolution of functional pairs occurred by a change in protein function and not by differences in spatial expression .
+We propose that , in plants , closely related receptor kinases have a minimal homo - or heterodimeric configuration to achieve specificity .
+PMID - 21139205
+TI - Crystallization and preliminary crystallographic analysis of a <GENE> calcineurin B - like protein 1 </GENE> ( <GENE> CBL1 </GENE> ) mutant from Ammopiptanthus mongolicus .
+<GENE> AB - Calcineurin B - like protein 1 </GENE> ( <GENE> CBL1 </GENE> ) is a calcium sensor in plants .
+It transmits the calcium signal through the downstream protein <GENE> CBL - interacting protein kinase </GENE> ( <GENE> CIPK </GENE> ) .
+<GENE> CBL1 </GENE> and <GENE> CIPK </GENE> play crucial roles in the response to environmental stresses such as low K + , osmotic shock , high salt , cold and drought .
+<GENE> Recombinant CBL1 from Ammopiptanthus mongolicus ( AmCBL1 ) </GENE> was overexpressed , purified and crystallized .
+However , the crystal did not diffract well .
+A mutant prepared using the surface - entropy method and crystallized using the hanging - drop method at 298 K with PEG 2000 MME as a precipitant diffracted to 2 . 90 A resolution .
+The crystal belonged to space group P2 ( 1 ) 2 ( 1 ) 2 , with unit - cell parameters a = 99 . 87 , b = 114 . 42 , c = 63 . 80 A , alpha = beta = gamma = 90 . 00 degrees and three molecules per asymmetric unit .
+PMID - 11135110
+TI - Cell cycle - dependent proteolysis and ectopic overexpression of <GENE> cyclin B1 </GENE> in tobacco BY2 cells .
+AB - Activation of <GENE> cyclin B </GENE> / <GENE> Cdc2 </GENE> kinase complex triggers entry into mitosis in all eukaryotic cells .
+Although <GENE> cyclin gene </GENE> expression has been extensively studied in plants , not much is known at the level of the protein stability and function .
+Here , we demonstrated by using the highly synchronizable tobacco BY2 cell culture , that endogenous <GENE> cyclin B1 protein </GENE> undergoes cell cycle - dependent proteolysis and is stabilized when the spindle checkpoint has been activated .
+Furthermore , we established transgenic tobacco BY2 cell cultures expressing under the control of an inducible promoter , <GENE> cyclin B1 protein </GENE> as well as its non - degradable form as fusion proteins with <GENE> GFP </GENE> and found that the ectopic expression of these proteins did not dramatically disturb the cell cycle progression .
+These results indicate that , to a certain extent , cell cycle exit is possible without <GENE> cyclin B1 </GENE> proteolysis .
+PMID - 11197326
+<GENE> TI - Two rice MADS domain proteins </GENE> interact with <GENE> OsMADS1 </GENE> .
+<GENE> AB </GENE> - <GENE> OsMADS1 </GENE> is a <GENE> MADS </GENE> box gene controlling flower development in rice .
+In order to learn more about the function of <GENE> OsMADS1 </GENE> , we searched for cellular proteins interacting with <GENE> OsMADS1 </GENE> employing the yeast two - hybrid system .
+Two novel proteins with <GENE> MADS domains </GENE> , which were named <GENE> OsMADS14 </GENE> and <GENE> OsMADS15 </GENE> , were isolated from a rice cDNA library .
+<GENE> OsMADS14 and - 15 </GENE> are highly homologous to the <GENE> maize MADS box gene ZAP1 </GENE> which is an orthologue of the floral <GENE> homeotic gene APETALA1 </GENE> ( <GENE> AP1 </GENE> ) .
+Interactions among the three <GENE> MADS domain proteins </GENE> were confirmed by in vitro experiments using GST - fused <GENE> OsMADS1 </GENE> expressed in Escherichia coli and in vitro translated proteins of <GENE> OsMADS14 </GENE> and - 15 .
+We determined which domains in <GENE> OsMADS1 </GENE> , - 14 , and - 15 were required for protein - protein interaction employing the two - hybrid system and pull - down experiments .
+While the K domain was essential for protein - protein interaction , a region preceded by the K domain augmented this interaction .
+Interestingly , the C - terminal region of <GENE> OsMADS1 </GENE> functioned as a transcriptional activation domain in yeast and mammalian cells , while , on the other hand , the <GENE> C domains </GENE> of <GENE> OsMADS14 </GENE> and - 15 exhibited only very weak transcriptional activator functionality , if any at all .
+PMID - 16970618
+TI - Morphological and molecular characterization of a new frizzy panicle mutant , " fzp - 9 ( t ) " , in rice ( Oryza sativa L . ) .
+AB - The spikelet identity gene " fzp " ( frizzy panicle ) is required for transformation of the floral meristems to inflorescent shoots .
+In <GENE> fzp mutants </GENE> , spikelets are replaced by branches and spikelet meristems produce massive numbers of branch meristems .
+We have isolated and characterized a new <GENE> fzp mutant </GENE> derived from anther culture lines in rice and designated as <GENE> fzp - 9 </GENE> ( t ) .
+The <GENE> fzp - 9 </GENE> ( t ) mutant showed retarded growth habit and developed fewer tillers than those of the wild - type plant .
+The primary and secondary rachis branches of <GENE> fzp - 9 </GENE> ( t ) appeared to be normal , but higher - order branches formed continuous bract - like structures without developing spikelets .
+The genetic segregation of <GENE> fzp - 9 </GENE> ( t ) showed a good fit to the expected ratio of 3 : 1 .
+The sequence analysis of <GENE> fzp - 9 </GENE> ( t ) revealed that there is a single nucleotide base change upstream of the <GENE> ERF </GENE> ( <GENE> ethylene - responsive element - binding factor </GENE> ) domain compare to wild - type plant .
+The mutation point of <GENE> fzp - 9 ( t ) </GENE> ( <GENE> W66G </GENE> ) was one of the six amino acids of the <GENE> ERF </GENE> domain that contributed to GCC box - specific binding .
+The premature formation of a stop codon at the beginning of the <GENE> ERF domain </GENE> might cause a non - functional product .
+PMID - 18080125
+TI - Kalanchoe blossfeldiana plants expressing the Arabidopsis <GENE> etr1 - 1 allele </GENE> show reduced ethylene sensitivity .
+AB - Transgenic Kalanchoe blossfeldiana Poelln . with reduced ethylene sensitivity in flowers was obtained by Agrobacterium tumefaciens - mediated transformation using the plasmid pBEO210 containing the <GENE> mutant ethylene receptor </GENE> gene <GENE> etr1 - 1 </GENE> from Arabidopsis thaliana under the control of the flower - specific <GENE> fbp1 - promoter </GENE> from Petunia .
+Three ethylene - resistent T0 lines , 300 , 324 and 331 , were selected and analyzed for postharvest - performance and morphological characteristics .
+Line 324 was found to be infertile and only slightly less ethylene - sensitive than control - plants , but lines 300 and 331 had significantly increased ethylene - resistance and were fertile .
+These two lines were analyzed for copy - number of the <GENE> etr1 - 1 gene </GENE> by Southern blotting and were crossed with the ethylene - sensitive cultivar ' Celine ' to create T1 progeny .
+Line 300 contains two T - DNA copies per nucleus , one of which is rearranged , and these are unlinked according to segregation data from the crossing to ' Celine ' and PCR - analysis of progeny plants .
+For control plants all flowers were closed after 2 days at 2 microl l ( - 1 ) ethylene , but for line 300 only 33 % were closed after 10 days .
+Line 331 contains three T - DNA copies per nucleus and is more sensitive to ethylene than line 300 .
+In the line 300 the <GENE> etr1 - 1 gene </GENE> was found by RT - PCR to be expressed in petals and stamens but not in carpels and sepals .
+Both lines 300 and 331 , and their progeny , appear morphologically and physiologically identical to control plants except for the higher ethylene resistance .
+Line 300 and its progeny with only one T - DNA copy have very low ethylene sensitivity and may be useful in future breeding .
+PMID - 19825602
+<GENE> TI - ABP41 </GENE> is involved in the pollen tube development via fragmenting <GENE> actin </GENE> filaments .
+<GENE> AB - ABP41 </GENE> is identified as a novel member of plant <GENE> villin </GENE> / <GENE> gelsolin </GENE> / <GENE> fragmin </GENE> superfamily proteins from lily pollen , which binds stoichiometrically to <GENE> actin </GENE> filaments and severs them in vitro .
+To further understand its in - vivo function and the potential molecular mechanisms , biochemical analysis , fluorescence microscopic observation and microinjection assays were performed .
+Different biochemical measurements showed that <GENE> ABP41 </GENE> maintained <GENE> actin </GENE> filaments in forms of short <GENE> F - actin </GENE> in vitro .
+Microinjection of <GENE> ABP41 </GENE> into pollen tubes could fragment the pre - existing <GENE> actin filaments </GENE> , inhibit the velocity of cytoplasmic streaming , and shorten the length of the clear zone of pollen tube .
+In addition , it was found that the endogenous <GENE> ABP41 </GENE> expressing level was dynamically corresponding to the short <GENE> actin </GENE> filament structure in pollen at different stages of pollen germination .
+Our results suggest that <GENE> ABP41 </GENE> is involved in the regulation of <GENE> actin </GENE> dynamics during the pollen germination process via maintenance of short dynamic <GENE> actin </GENE> filaments .
+PMID - 17114348
+<GENE> TI - SND1 </GENE> , a <GENE> NAC domain transcription factor </GENE> , is a key regulator of secondary wall synthesis in fibers of Arabidopsis .
+AB - Secondary walls in fibers and tracheary elements constitute the most abundant biomass produced by plants .
+Although a number of genes involved in the biosynthesis of secondary wall components have been characterized , little is known about the molecular mechanisms underlying the coordinated expression of these genes .
+Here , we demonstrate that the Arabidopsis thaliana NAC ( for <GENE> NAM </GENE> , <GENE> ATAF1 / 2 , and CUC2 ) domain transcription factor </GENE> , <GENE> SND1 </GENE> ( for secondary wall - associated NAC domain protein ) , is a key transcriptional switch regulating secondary wall synthesis in fibers .
+We show that <GENE> SND1 </GENE> is expressed specifically in interfascicular fibers and xylary fibers in stems and that dominant repression of <GENE> SND1 </GENE> causes a drastic reduction in the secondary wall thickening of fibers .
+Ectopic overexpression of <GENE> SND1 </GENE> results in activation of the expression of secondary wall biosynthetic genes , leading to massive deposition of secondary walls in cells that are normally nonsclerenchymatous .
+In addition , we have found that <GENE> SND1 </GENE> upregulates the expression of several transcription factors that are highly expressed in fibers during secondary wall synthesis .
+Together , our results reveal that <GENE> SND1 </GENE> is a key transcriptional activator involved in secondary wall biosynthesis in fibers .
+PMID - 17114355
+TI - Subcellular trafficking of the Arabidopsis auxin influx carrier AUX1 uses a novel pathway distinct from <GENE> PIN1 </GENE> .
+AB - The directional flow of the plant hormone auxin mediates multiple developmental processes , including patterning and tropisms .
+Apical and basal plasma membrane localization of <GENE> AUXIN - RESISTANT1 </GENE> ( <GENE> AUX1 </GENE> ) and <GENE> PIN - FORMED1 </GENE> ( <GENE> PIN1 </GENE> ) auxin transport components underpins the directionality of intercellular auxin flow in Arabidopsis thaliana roots .
+Here , we examined the mechanism of polar trafficking of <GENE> AUX1 </GENE> .
+Real - time live cell analysis along with subcellular markers revealed that AUX1 resides at the apical plasma membrane of protophloem cells and at highly dynamic subpopulations of Golgi apparatus and endosomes in all cell types .
+Plasma membrane and intracellular pools of <GENE> AUX1 </GENE> are interconnected by <GENE> actin </GENE> - dependent constitutive trafficking , which is not sensitive to the vesicle trafficking <GENE> inhibitor brefeldin A </GENE> .
+AUX1 subcellular dynamics are not influenced by the auxin influx inhibitor NOA but are blocked by the auxin efflux inhibitors TIBA and PBA .
+Furthermore , auxin transport inhibitors and interference with the sterol composition of membranes disrupt polar AUX1 distribution at the plasma membrane .
+Compared with PIN1 trafficking , <GENE> AUX1 </GENE> dynamics display different sensitivities to trafficking inhibitors and are independent of the endosomal trafficking regulator <GENE> ARF GEF GNOM </GENE> .
+Hence , <GENE> AUX1 </GENE> uses a novel trafficking pathway in plants that is distinct from PIN trafficking , providing an additional mechanism for the fine regulation of auxin transport .
+PMID - 18666953
+TI - Cloning and expression analysis of rice sucrose transporter genes <GENE> OsSUT2M </GENE> and <GENE> OsSUT5Z </GENE> .
+AB - Two sucrose transporter ( SUT ) cDNAs , <GENE> OsSUT2M </GENE> and <GENE> OsSUT5Z </GENE> , were isolated from rice ( Oryza sativa L . ) by reverse transcription polymerase chain reaction ( RT - PCR ) .
+Sequencing results indicate they are 1 , 531 bp and 1 , 635 bp in length including complete open reading frame 1 , 506 bp and 1 , 608 bp , which encode 502 amino acids and 536 amino acids , respectively .
+The TopPred program suggested that both <GENE> sucrose transporter proteins </GENE> , <GENE> OsSUT2M </GENE> and <GENE> OsSUT5Z </GENE> , consist of potentially 12 transmembrane domains .
+Semi - quantitative RT - PCR was carried out to investigate the gene expression patterns of OsSUT2M and OsSUT5Z .
+In vegetative organs , transcripts of OsSUT2M were higher in source leaf blades than in other organs at the same development stage , whereas transcripts of OsSUT5Z were less traceable in all organs investigated .
+In reproductive organs , both transcripts of these two genes were high in panicles from the booting stage to 7 days after flowering ( DAF ) and then sharply declined .
+The potential physiology functions of these two sucrose transporters are discussed .
+PMID - 19825605
+<GENE> TI - Membrane steroid binding protein 1 </GENE> ( <GENE> MSBP1 </GENE> ) stimulates tropism by regulating vesicle trafficking and auxin redistribution .
+AB - Overexpression of membrane <GENE> steroid binding protein 1 </GENE> ( <GENE> MSBP1 </GENE> ) stimulates the root gravitropism and anti - gravitropism of hypocotyl , which is mainly due to the enhanced auxin redistribution in the bending regions of hypocotyls and root tips .
+The inhibitory effects by 1 - N - naphthylphthalamic acid ( NPA ) , an inhibitor of polar auxin transport , are suppressed under the <GENE> MSBP1 </GENE> overexpression , suggesting the positive effects of <GENE> MSBP1 </GENE> on polar auxin transport .
+Interestingly , sub - cellular localization studies showed that <GENE> MSBP1 </GENE> is also localized in endosomes and observations of the membrane - selective dye FM4 - 64 revealed the enhanced vesicle trafficking under <GENE> MSBP1 </GENE> overexpression .
+<GENE> MSBP1 </GENE> - overexpressing seedlings are less sensitive to <GENE> brefeldin A </GENE> ( BFA ) treatment , whereas the vesicle trafficking was evidently reduced by suppressed <GENE> MSBP1 </GENE> expression .
+Enhanced <GENE> MSBP1 </GENE> does not affect the polar localization of <GENE> PIN2 </GENE> , but stimulates the <GENE> PIN2 </GENE> cycling and enhances the asymmetric PIN2 redistribution under gravi - stimulation .
+These results suggest that <GENE> MSBP1 </GENE> could enhance the cycling of <GENE> PIN2 </GENE> - containing vesicles to stimulate the auxin redistribution under gravi - stimulation , providing informative hints on interactions between <GENE> auxin </GENE> and <GENE> steroid binding protein </GENE> .
+PMID - 23370717
+TI - Expression of the minor isoform pea <GENE> ferredoxin </GENE> in tobacco alters photosynthetic electron partitioning and enhances cyclic electron flow .
+<GENE> AB - Ferredoxins </GENE> ( <GENE> Fds </GENE> ) are ferrosulfoproteins that function as low - potential electron carriers in plants .
+The <GENE> Fd family </GENE> is composed of several isoforms that share high sequence homology but differ in functional characteristics .
+In leaves , atleast two isoforms conduct linear and cyclic photosynthetic electron transport around photosystem I , and mounting evidence suggests the existence of atleast partial division of duties between these isoforms .
+To evaluate the contribution of different kinds of <GENE> Fds </GENE> to the control of electron fluxes along the photosynthetic electron transport chain , we overexpressed a minor pea ( Pisum sativum ) Fd isoform ( <GENE> PsFd1 </GENE> ) in tobacco ( Nicotiana tabacum ) plants .
+The transplastomic <GENE> OeFd1 plants </GENE> exhibited variegated leaves and retarded growth and developmental rates .
+Photosynthetic studies of these plants indicated a reduction in carbon dioxide assimilation rates , photosystem II photochemistry , and linear electron flow .
+However , the plants showed an increase in nonphotochemical quenching , better control of excitation pressure at photosystem II , and no evidence of photoinhibition , implying a better dynamic regulation to remove excess energy from the photosynthetic electron transport chain .
+Finally , analysis of P700 redox status during illumination confirmed that the minor pea Fd isoform promotes enhanced cyclic flow around photosystem I .
+The two novel features of this work are : ( 1 ) that <GENE> Fd </GENE> levels achieved in transplastomic plants promote an alternative electron partitioning even under greenhouse light growth conditions , a situation that is exacerbated at higher light intensity measurements ; and ( 2 ) that an alternative , minor Fd isoform has been overexpressed in plants , giving new evidence of labor division among <GENE> Fd </GENE> isoforms .
+PMID - 11108846
+TI - Characterization of <GENE> wheat DP </GENE> , a heterodimerization partner of the plant <GENE> E2F transcription factor </GENE> which stimulates <GENE> E2F </GENE> - DNA binding .
+AB - Recent studies suggest that the G1 / S transition in plants depends on the activity of <GENE> E2F transcription factors </GENE> .
+In animal cells , <GENE> E2Fs </GENE> interact with <GENE> DP proteins </GENE> , whose identification in plants has been elusive , so far .
+Here we show that although an <GENE> E2F </GENE> - containing DNA - binding activity can be detected in plant cell extracts , purified <GENE> E2F protein </GENE> binds poorly to DNA .
+In a yeast two - hybrid screening , using wheat <GENE> E2F </GENE> as a bait , we have isolated a cDNA clone encoding a <GENE> wheat DP ( TmDP ) protein </GENE> .
+<GENE> TmDP </GENE> is expressed ubiquitously and exhibits a domain organization similar to animal DPs .
+Contrary to the specificity observed for the plant <GENE> RBR </GENE> / <GENE> E2F </GENE> interaction , human and plant <GENE> E2F </GENE> and <GENE> DP proteins </GENE> can interact in a heterologous manner .
+Purified <GENE> TmDP protein </GENE> stimulates <GENE> E2F </GENE> - DNA complex formation .
+PMID - 11148284
+TI - Mutations in the FIE and MEA genes that encode interacting polycomb proteins cause parent - of - origin effects on seed development by distinct mechanisms .
+AB - In flowering plants , two cells are fertilized in the haploid female gametophyte .
+Egg and sperm nuclei fuse to form the embryo .
+A second sperm nucleus fuses with the central cell nucleus , which replicates to generate the endosperm , a tissue that supports embryo development .
+The FERTILIZATION - INDEPENDENT ENDOSPERM ( FIE ) and MEDEA ( MEA ) genes encode WD and SET domain polycomb proteins , respectively .
+In the absence of fertilization , a female gametophyte with a loss - of - function fie or mea allele initiates endosperm development without fertilization . fie and mea mutations also cause parent - of - origin effects , in which the wild - type maternal allele is essential and the paternal allele is dispensable for seed viability .
+Here , we show that <GENE> FIE </GENE> and <GENE> MEA polycomb proteins </GENE> interact physically , suggesting that the molecular partnership of WD and SET domain polycomb proteins has been conserved during the evolution of flowering plants .
+The overlapping expression patterns of FIE and MEA are consistent with their suppression of gene transcription and endosperm development in the central cell as well as their control of seed development after fertilization .
+Although <GENE> FIE </GENE> and <GENE> MEA </GENE> interact , differences in maternal versus paternal patterns of expression , as well as the effect of a recessive mutation in the <GENE> DECREASE IN DNA METHYLATION1 </GENE> ( <GENE> DDM1 </GENE> ) gene on mutant allele transmission , indicate that fie and mea mutations cause parent - of - origin effects on seed development by distinct mechanisms .
+PMID - 15803412
+<GENE> TI - AKINbeta3 </GENE> , a plant specific <GENE> SnRK1 protein </GENE> , is lacking domains present in yeast and mammals non - catalytic beta - subunits .
+AB - The <GENE> SNF1 </GENE> / <GENE> AMPK </GENE> / <GENE> SnRK1 </GENE> heterotrimeric kinase complex is involved in the adaptation of cellular metabolism in response to diverse stresses in yeast , mammals and plants .
+Following a model proposed in yeast , the kinase targets are likely to bind the complex via the non - catalytic beta - subunits .
+These proteins currently identified in yeast , mammals and plants present a common structure with two conserved interacting domains named <GENE> Kinase </GENE> Interacting Sequence ( KIS ) and Association with <GENE> SNF1 </GENE> Complex ( ASC ) , and a highly variable N - terminal domain .
+In this paper we describe the characterisation of <GENE> AKINbeta3 </GENE> , a novel protein related to <GENE> AKINbeta </GENE> subunits of Arabidopsis thaliana , containing a truncated <GENE> KIS domain </GENE> and no N - terminal extension .
+Interestingly the missing region of the KIS domain corresponds to the <GENE> glycogen - binding domain </GENE> ( <GENE> beta - GBD </GENE> ) identified in the <GENE> mammalian AMPKbeta1 </GENE> .
+In spite of its unusual features , <GENE> AKINbeta3 </GENE> complements the <GENE> yeast sip1Deltasip2Deltagal83Delta mutant </GENE> .
+Moreover , interactions between <GENE> AKINbeta3 </GENE> and other AKIN complex subunits from A . thaliana were detected by two - hybrid experiments and in vitro binding assays .
+Taken together these data demonstrate that <GENE> AKINbeta3 </GENE> is a beta - type subunit .
+A search for beta - type subunits revealed the existence of <GENE> beta3 - type proteins </GENE> in other plant species .
+Furthermore , we suggest that the <GENE> AKINbeta3 </GENE> - type subunits could be plant specific since no related sequences have been found in any of the other completely sequenced genomes .
+These data suggest the existence of novel <GENE> SnRK1 </GENE> complexes including <GENE> AKINbeta3 </GENE> - type subunits , involved in several functions among which some could be plant specific .
+PMID - 15843967
+TI - Transgenic expression of the <GENE> von Willebrand A domain </GENE> of the BONZAI 1 / COPINE 1 protein triggers a lesion - mimic phenotype in Arabidopsis .
+AB - The copines are a newly identified , widely distributed class of Ca ( 2 + ) - dependent , <GENE> phospholipid - binding proteins </GENE> that may be involved in cellular signaling .
+The copines have a characteristic domain structure : two <GENE> C2 </GENE> domains in the N - terminal region and a <GENE> von Willebrand A </GENE> ( VWA ) domain in the C - terminal region .
+Studies suggest that copines interact with target protein ( s ) via their VWA domain and recruit the proteins to a membrane location through the activity of the <GENE> C2 </GENE> domains .
+Arabidopsis thaliana ( L . ) Heynh . plants with loss - of - function mutations in the <GENE> BONZAI 1 / COPINE 1 </GENE> ( <GENE> BON1 </GENE> / <GENE> CPN1 </GENE> ) gene display aberrant regulation of defense responses , including development of a lesion - mimic phenotype , an accelerated hypersensitive response , and increased resistance to a bacterial and an oomycetous pathogen .
+The phenotype of mutants in <GENE> BON1 </GENE> / <GENE> CPN1 </GENE> is both humidity - and temperature - sensitive .
+In this study , we generated transgenic plants expressing either the VWA or the C2 portions of <GENE> BON1 </GENE> / <GENE> CPN1 </GENE> in the wild - type Columbia - 0 ( Col - 0 ) genetic background .
+Transgenic plants expressing the <GENE> BON1 </GENE> / <GENE> CPN1 C2 domain </GENE> portion appeared like wild - type plants .
+However , transgenic plants expressing the <GENE> BON1 </GENE> / <GENE> CPN1 </GENE> VWA domain exhibited a lesion - mimic phenotype that partially phenocopied <GENE> bon1 </GENE> / <GENE> cpn1 </GENE> mutant plants .
+Our data suggest that <GENE> BON1 </GENE> / <GENE> CPN1 </GENE> VWA domain fragments may interfere with the function of the <GENE> full - length endogenous BON1 </GENE> / <GENE> CPN1 </GENE> protein , possibly by competing with the full - length <GENE> BON1 </GENE> / <GENE> CPN1 </GENE> protein for association with target proteins normally bound to the full - length <GENE> BON1 </GENE> / <GENE> CPN1 </GENE> protein .
+PMID - 16455357
+<GENE> TI - A </GENE> putative <GENE> CENTRORADIALIS </GENE> / <GENE> TERMINAL FLOWER 1 - like gene </GENE> , <GENE> Ljcen1 </GENE> , plays a role in phase transition in Lotus japonicus .
+<GENE> AB - CENTRORADIALIS / TERMINAL FLOWER 1 </GENE> ( <GENE> CEN </GENE> / <GENE> TFL1 </GENE> ) genes play an important role in the phase transition of plant flowering .
+Here we characterized the expression pattern of a <GENE> CEN </GENE> / <GENE> TFL1 </GENE> - like gene , <GENE> Ljcen1 </GENE> , from Lotus japonicus .
+Sequence analysis revealed that Ljcen1 shared 67 - 76 % identity to its homologs from a variety of plant species .
+<GENE> Ljcen1 transcripts </GENE> could be detected at the young root tip and reproductive shoot apical meristem of L . japonicus .
+RNA in situ hybridization analysis revealed that <GENE> Ljcen1 </GENE> was continuously expressed in the sub - domain of the primary inflorescence meristem and transiently expressed in the secondary inflorescence meristem .
+The ectopic expression of <GENE> Ljcen1 </GENE> in Arabidopsis driven by double <GENE> CaMV 35S promoter </GENE> delayed the flowering .
+These results suggested that <GENE> Ljcen1 gene </GENE> was involved in a conserved <GENE> CEN </GENE> / <GENE> TFL1 </GENE> pathway that functions in phase transition of shoot apical meristem in L . japonicus .
+PMID - 16478048
+TI - GmCOI1 , a <GENE> soybean F - box protein gene </GENE> , shows ability to mediate jasmonate - regulated plant defense and fertility in Arabidopsis .
+AB - The <GENE> F - box protein gene COI1 </GENE> from Arabidopsis plays a fundamental role in response to jasmonates , which regulate plant root growth , pollen fertility , wounding and healing , and defense against pathogens and insects .
+Null mutations in <GENE> COI1 </GENE> were previously found to abolish all the jasmonate responses , and the <GENE> Arabidopsis coil - 1 mutant </GENE> is male sterile and susceptible to pathogen infection .
+In this study , we isolated an <GENE> F - box protein gene </GENE> from soybean , which shares significant homology with the Arabidopsis <GENE> COI1 </GENE> and similarly contains an F - box motif and leucine rich repeats ( LRR ) , here designated <GENE> GmCOI1 ( Glycine max L . ( Merr . ) COI1 </GENE> ) .
+To test whether the sequence homology and structural similarity are indicative of functional conservation , we expressed <GENE> GmCOI1 </GENE> in the <GENE> Arabidopsis coil - 1 mutant </GENE> .
+The transgenic coil - 1 plants with expression of the <GENE> GmCOI1 gene </GENE> were found to exhibit normal jasmonate responses , including jasmonate - regulated plant defense and fertility .
+In addition , the chimerical proteins with swapped domain of the <GENE> F - box motif </GENE> or <GENE> LRR </GENE> between <GENE> GmCOI1 </GENE> and <GENE> COI1 </GENE> were shown to functionally complement the <GENE> coil - 1 </GENE> mutation .
+Furthermore , <GENE> GmCOI1 </GENE> was found to assemble into the <GENE> Skpl - Cullin - F - box </GENE> ( <GENE> SCF </GENE> ) complexes , similar to the formation of the Arabidopsis <GENE> SCF </GENE> ( <GENE> COO1 </GENE> ) .
+These data demonstrate the <GENE> soybean F - box protein gene GmCOI1 </GENE> is able to mediate jasmonate - regulated plant defense and fertility in Arabidopsis , which implies a generic jasmonate pathway with conserved signal components in different plant species .
+PMID - 17715150
+TI - The fiber specificity of the <GENE> cotton FSltp4 gene promoter </GENE> is regulated by an AT - rich promoter region and the <GENE> AT - hook transcription factor GhAT1 </GENE> .
+AB - Fiber - specific genes are expressed preferentially or exclusively in cotton ( Gossypium spp . ) fiber and are thought to have important functions in fiber development .
+The promoters of these genes are of interest because they control transcription in the fiber cell and may be used in the genetic manipulation of fiber quality .
+The promoter of a <GENE> cotton lipid transfer protein gene </GENE> , <GENE> FSltp4 </GENE> , was isolated and shown to direct fiber - specific transcription of an abundant mRNA in cotton .
+In transgenic tobacco , this promoter was strongly active in leaf trichomes .
+Deletion analysis of the promoter identified an AT - rich 84 bp fiber specificity region ( FSR ) necessary for activity exclusively in the fiber cells .
+<GENE> Cotton fiber proteins </GENE> that bind the <GENE> FSR </GENE> were isolated using a yeast one - hybrid assay .
+One of these was a putative <GENE> AT - hook transcription factor </GENE> ( <GENE> GhAT1 </GENE> ) containing two AT - hook motifs .
+<GENE> GhAT1 </GENE> was shown to be nuclear localized , and <GENE> GhAT1 transcripts </GENE> were found to be preferentially expressed in ovules and non - fiber tissues .
+Overexpression of <GENE> GhAT1 </GENE> strongly repressed the activity of the <GENE> FSltp4 promoter </GENE> in the trichomes of transgenic tobacco .
+These results suggest that <GENE> GhAT1 </GENE> assists in the specification of fiber cells by repressing <GENE> FSltp4 </GENE> in the non - fiber tissues of the cotton plant .
+PMID - 17924136
+<GENE> TI - Tie - dyed1 </GENE> and sucrose export defective1 act independently to promote carbohydrate export from maize leaves .
+AB - tie - <GENE> dyed1 </GENE> ( <GENE> tdy1 </GENE> ) and sucrose export defective1 ( <GENE> sxd1 </GENE> ) are recessive maize ( Zea mays ) mutants with nonclonal chlorotic leaf sectors that hyperaccumulate starch and soluble sugars .
+In addition , both mutants display similar growth - related defects such as reduced plant height and inflorescence development due to the retention of carbohydrates in leaves .
+As <GENE> tdy1 </GENE> and <GENE> sxd1 </GENE> are the only variegated leaf mutants known to accumulate carbohydrates in any plant , we investigated whether <GENE> Tdy1 </GENE> and <GENE> Sxd1 </GENE> function in the same pathway .
+Using aniline blue staining for callose and transmission electron microscopy to inspect plasmodesmatal ultrastructure , we determined that <GENE> tdy1 </GENE> does not have any physical blockage or alteration along the symplastic transport pathway as found in <GENE> sxd1 mutants </GENE> .
+To test whether the two genes function in the same genetic pathway , we constructed F ( 2 ) families segregating both mutations .
+Double mutant plants showed an additive interaction for growth related phenotypes and soluble sugar accumulation , and expressed the leaf variegation pattern of both single mutants indicating that <GENE> Tdy1 </GENE> and <GENE> Sxd1 </GENE> act in separate genetic pathways .
+Although <GENE> sxd1 mutants </GENE> lack tocopherols , we determined that <GENE> tdy1 mutants </GENE> have wild - type tocopherol levels , indicating that <GENE> Tdy1 </GENE> does not function in the same biochemical pathway as <GENE> Sxd1 </GENE> .
+From these and other data we conclude that <GENE> Tdy1 </GENE> and <GENE> Sxd1 </GENE> function independently to promote carbon export from leaves .
+Our genetic and cytological studies implicate <GENE> Tdy1 </GENE> functioning in veins , and a model discussing possible functions of <GENE> TDY1 </GENE> is presented .
+PMID - 18854373
+TI - The Arabidopsis <GENE> COP9 signalosome subunit 7 </GENE> is a model PCI domain protein with subdomains involved in <GENE> COP9 </GENE> signalosome assembly .
+AB - The COP9 Signalosome ( CSN ) is a multiprotein complex that was originally identified in Arabidopsis thaliana as a negative regulator of photomorphogenesis and subsequently shown to be a general eukaryotic regulator of developmental signaling .
+The CSN plays various roles , but it has been most often implicated in regulating protein degradation pathways .
+Six of eight CSN subunits bear a sequence motif called PCI .
+Here , we report studies of <GENE> subunit 7 </GENE> ( <GENE> CSN7 </GENE> ) from Arabidopsis , which contains such a motif .
+Our in vitro and structural results , based on 1 . 5 A crystallographic data , enable a definition of a PCI domain , built from helical bundle and winged helix subdomains .
+Using functional binding assays , we demonstrate that the <GENE> PCI domain </GENE> ( residues 1 to 169 ) interacts with two other <GENE> PCI proteins </GENE> , <GENE> CSN8 </GENE> and <GENE> CSN1 </GENE> .
+<GENE> CSN7 </GENE> interactions with <GENE> CSN8 </GENE> use both PCI subdomains .
+Furthermore , we show that a C - terminal tail outside of this PCI domain is responsible for association with the non - PCI subunit , <GENE> CSN6 </GENE> .
+In vivo studies of transgenic plants revealed that the overexpressed <GENE> CSN7 PCI domain </GENE> does not assemble into the CSN , nor can it complement a null mutation of <GENE> CSN7 </GENE> .
+However , a <GENE> CSN7 </GENE> clone that contains the PCI domain plus part of the <GENE> CSN6 binding domain </GENE> can complement the null mutation in terms of seedling viability and photomorphogenesis .
+These transgenic plants , though , are defective in adult growth , suggesting that the <GENE> CSN7 C - terminal </GENE> tail plays additional functional roles .
+Together , the findings have implications for CSN assembly and function , highlighting necessary interactions between subunits .
+PMID - 23269841
+<GENE> TI - Arabidopsis Pumilio protein APUM5 </GENE> suppresses Cucumber mosaic virus infection via direct binding of viral RNAs .
+AB - Posttranscriptional / translational regulation of gene expression is mediated by diverse RNA binding proteins and plays an important role in development and defense processes .
+Among the RNA - binding proteins , the <GENE> mammalian Pumilio RNA - binding family </GENE> ( <GENE> Puf </GENE> ) acts as posttranscriptional and translational repressors .
+An Arabidopsis <GENE> Puf mutant </GENE> , <GENE> apum5 - D </GENE> , was isolated during a T - DNA insertional mutant screen for mutants with reduced susceptibility to Cucumber mosaic virus ( CMV ) infection .
+Interestingly , CMV RNA contained putative <GENE> Pumilio - homology domain binding motifs </GENE> in its 3 ' untranslated region ( UTR ) and internal places in its genome .
+<GENE> APUM5 </GENE> directly bound to the 3 ' UTR motifs and some internal binding motifs in CMV RNAs in vitro and in vivo .
+We showed that <GENE> APUM5 </GENE> acts as a translational repressor that regulates the 3 ' UTR of CMV and affects CMV replication .
+This study uncovered a unique defense system that Arabidopsis <GENE> APUM5 </GENE> specifically regulates CMV infection by the direct binding of CMV RNAs .
+PMID - 11123806
+TI - A stress - induced calcium - dependent protein kinase from Mesembryanthemum crystallinum phosphorylates a two - component pseudo - response regulator .
+<GENE> AB </GENE> - <GENE> McCDPK1 </GENE> is a salinity - and drought - induced <GENE> calcium - dependent protein kinase </GENE> ( <GENE> CDPK </GENE> ) isolated from the common ice plant , Mesembryanthemum crystallinum .
+A yeast two - hybrid experiment was performed , using full - length <GENE> McCDPK1 </GENE> and truncated forms of <GENE> McCDPK1 </GENE> as baits , to identify interacting proteins .
+A catalytically impaired bait isolated a cDNA clone encoding a novel protein , <GENE> CDPK substrate protein 1 </GENE> ( <GENE> CSP1 </GENE> ) .
+<GENE> CSP1 </GENE> interacted with <GENE> McCDPK1 </GENE> in a substrate - like fashion in both yeast two - hybrid assays and wheat germ interaction assays .
+Furthermore , <GENE> McCDPK1 </GENE> was capable of phosphorylating <GENE> CSP1 </GENE> in vitro in a calcium - dependent manner .
+Our results demonstrate that the use of catalytically impaired and unregulated <GENE> CDPKs </GENE> with the yeast two - hybrid system can accelerate the discovery of <GENE> CDPK </GENE> substrates .
+The deduced <GENE> CSP1 amino acid sequence </GENE> indicated that it is a novel member of a class of <GENE> pseudo - response regulator - like proteins </GENE> that have a highly conserved helix - loop - helix DNA binding domain and a C - terminal activation domain .
+<GENE> McCDPK1 </GENE> and <GENE> CSP1 </GENE> co - localized to nuclei of NaCl - stressed ice plants .
+<GENE> Csp1 transcript </GENE> accumulation was not regulated by NaCl or dehydration stress .
+Our results strongly suggest that <GENE> McCDPK1 </GENE> may regulate the function of <GENE> CSP1 </GENE> by reversible phosphorylation .
+PMID - 11731464
+TI - Mutations in LIKE <GENE> HETEROCHROMATIN PROTEIN 1 </GENE> affect flowering time and plant architecture in Arabidopsis .
+AB - In plants , recent studies have demonstrated links between the regulation of developmental processes and chromatin dynamics and organisation .
+Analysis of new mutations affecting overall plant architecture , leaf development and flowering time in Arabidopsis has allowed us to clone and characterise <GENE> LHP1 </GENE> , the Drosophila <GENE> heterochromatin protein 1 </GENE> ( <GENE> HP1 </GENE> ) homologue .
+<GENE> LHP1 </GENE> has the chromo and chromo shadow domains central to the function of <GENE> animal proteins </GENE> .
+Yeast two hybrid studies and in planta deletion experiments suggest similar modes of action in plants and animals via homodimer formation .
+In vivo localisation experiments revealed a specific subnuclear protein distribution in foci throughout the nucleus .
+Our data suggest that <GENE> LHP1 </GENE> may act as a main regulator of gene expression in plants , through formation of <GENE> heterochromatin - like </GENE> repressive complexes , to control developmental pathways involved in organ and cell size , and the vegetative to reproductive phase transition .
+PMID - 16508080
+<GENE> TI - Mistletoe lectin I </GENE> in complex with galactose and lactose reveals distinct sugar - binding properties .
+AB - The structures of <GENE> mistletoe lectin I </GENE> ( <GENE> ML - I </GENE> ) from Viscum album complexed with lactose and galactose have been determined at 2 . 3 A resolution and refined to R factors of 20 . 9 % ( Rfree = 23 . 6 % ) and 20 . 9 ( Rfree = 24 . 6 % ) , respectively .
+<GENE> ML - I </GENE> is a heterodimer and belongs to the class of ribosome - inactivating proteins of type II , which consist of two chains .
+The A - chain has rRNA <GENE> N - glycosidase </GENE> activity and irreversibly inhibits eukaryotic ribosomes .
+The B - chain is a <GENE> lectin </GENE> and preferentially binds to galactose - terminated glycolipids and glycoproteins on cell membranes .
+Saccharide binding is performed by two binding sites in subdomains alpha1 and gamma2 of the ML - I B - chain separated by approximately 62 A from each other .
+The favoured binding of galactose in subdomain alpha1 is achieved via hydrogen bonds connecting the 4 - hydroxyl and 3 - hydroxyl groups of the sugar moiety with the side chains of <GENE> Asp23B </GENE> , <GENE> Gln36B </GENE> and <GENE> Lys41B </GENE> and the main chain of 26B .
+The aromatic ring of <GENE> Trp38B </GENE> on top of the preferred binding pocket supports van der Waals packing of the apolar face of galactose and stabilizes the <GENE> sugar - lectin complex </GENE> .
+In the galactose - binding site II of subdomain gamma2 , Tyr249B provides the hydrophobic stacking and the side chains of Asp235B , Gln238B and Asn256B are hydrogen - bonding partners for galactose .
+In the case of the <GENE> galactose - binding site I </GENE> , the 2 - hydroxyl group also stabilizes the sugar - protein complex , an interaction thus far rarely detected in galactose - specific lectins .
+Finally , a potential third low - affinity galactose - binding site in subunit beta1 was identified in the present ML - I structures , in which a glycerol molecule from the cryoprotectant buffer has bound , mimicking the sugar compound .
+PMID - 16511042
+TI - Crystallization and preliminary X - ray diffraction study of the <GENE> histidine - containing phosphotransfer protein ZmHP1 </GENE> from maize .
+AB - In histidine - aspartate phosphorelays ( two - component systems ) involved in <GENE> plant - hormone </GENE> signalling , histidine - containing phosphotransfer ( HPt ) proteins mediate the transfer of a phosphoryl group from the sensory histidine kinase to the response regulator .
+The maize <GENE> HPt protein ZmHP1 </GENE> has been crystallized .
+Although <GENE> ZmHP1 </GENE> with an N - terminal His tag could be crystallized using sodium chloride as a precipitant , the crystals diffracted poorly to only 3 . 2 A resolution .
+When the His tag was removed , <GENE> ZmHP1 </GENE> crystals were obtained using polyethylene glycol 4000 as a precipitant and the diffraction data were greatly enhanced to 2 . 4 A resolution .
+The crystals belonged to the space group P4 ( 1 ) 2 ( 1 ) 2 , with one <GENE> ZmHP1 molecule </GENE> in the asymmetric unit .
+PMID - 17988222
+<GENE> TI - Histone H2A </GENE> . <GENE> Z </GENE> and homologues of components of the <GENE> SWR1 complex </GENE> are required to control immunity in Arabidopsis .
+AB - One of the mechanisms involved in chromatin remodelling is so - called ' histone replacement ' .
+An example of such a mechanism is the substitution of canonical <GENE> H2A histone </GENE> by the <GENE> histone variant H2A . Z </GENE> .
+The ATP - dependent chromatin remodelling complex <GENE> SWR1 </GENE> is responsible for this action in yeast .
+We have previously proposed the existence of an <GENE> SWR1 - like complex </GENE> in Arabidopsis by demonstrating genetic and physical interaction of the components SEF , <GENE> ARP6 </GENE> and <GENE> PIE1 </GENE> , which are homologues of the yeast <GENE> Swc6 </GENE> and <GENE> Arp6 proteins </GENE> and the core <GENE> ATPase Swr1 </GENE> , respectively .
+Here we show that <GENE> histone variant H2A . Z </GENE> , but not canonical <GENE> H2A histone </GENE> , interacts with <GENE> PIE1 </GENE> .
+Plants mutated at loci <GENE> HTA9 </GENE> and <GENE> HTA11 </GENE> ( two of the three Arabidopsis <GENE> H2A . Z - coding genes </GENE> ) displayed developmental abnormalities similar to those found in <GENE> pie1 </GENE> , <GENE> sef </GENE> and <GENE> arp6 plants </GENE> , exemplified by an early - flowering phenotype .
+Comparison of gene expression profiles revealed that 65 % of the genes differentially regulated in <GENE> hta9 hta11 plants </GENE> were also mis - regulated in <GENE> pie1 plants </GENE> .
+Detailed examination of the expression data indicated that the majority of mis - regulated genes were related to salicylic acid - dependent immunity .
+RT - PCR and immunoblotting experiments confirmed constitutive expression of systemic acquired resistance ( SAR ) marker genes in <GENE> pie1 </GENE> , <GENE> hta9 hta11 and sef plants </GENE> .
+Variations observed at the molecular level resulted in phenotypic alterations such as spontaneous cell death and enhanced resistance to the <GENE> phytopathogenic bacteria Pseudomonas syringae pv . tomato </GENE> .
+Thus , our results support the existence in Arabidopsis of an <GENE> SWR1 </GENE> - like chromatin remodelling complex that is functionally related to that described in yeast and human , and attribute to this complex a role in maintaining a repressive state of the SAR response .
+PMID - 17114277
+TI - Tobacco nectaries express a novel <GENE> NADPH oxidase </GENE> implicated in the defense of floral reproductive tissues against microorganisms .
+AB - Hydrogen peroxide produced from the nectar redox cycle was shown to be a major factor contributing to inhibition of most microbial growth in floral nectar ; however , this obstacle can be overcome by the floral pathogen Erwinia amylovora .
+To identify the source of superoxide that leads to hydrogen peroxide accumulation in nectary tissues , nectaries were stained with nitroblue tetrazolium .
+Superoxide production was localized near nectary pores and inhibited by diphenylene iodonium but not by cyanide or azide , suggesting that <GENE> NAD ( P ) H oxidase </GENE> is the source of superoxide .
+Native PAGE assays demonstrated that NADPH ( not NADH ) was capable of driving the production of superoxide , diphenyleneiodonium chloride was an efficient inhibitor of this activity , but cyanide and azide did not inhibit .
+These results confirm that the production of superoxide was due to an <GENE> NADPH oxidase </GENE> .
+The nectary enzyme complex was distinct by migration on gels from the leaf enzyme complex .
+Temporal expression patterns demonstrated that the superoxide production ( <GENE> NADPH oxidase </GENE> activity ) was coordinated with nectar secretion , the expression of <GENE> Nectarin I </GENE> ( a <GENE> superoxide dismutase </GENE> in nectar ) , and the expression of <GENE> NOX1 </GENE> , a putative gene for a nectary <GENE> NADPH oxidase </GENE> that was cloned from nectaries and identified as an rbohD - like <GENE> NADPH oxidase </GENE> .
+Further , in situ hybridization studies indicated that the <GENE> NADPH oxidase </GENE> was expressed in the early stages of flower development although superoxide was generated at later stages ( after Stage 10 ) , implicating posttranslational regulation of the <GENE> NADPH oxidase </GENE> in the nectary .
+PMID - 18592691
+TI - Isolation of <GENE> EF1gamma from calli regenerating SSH </GENE> library in Maize ( Zea mays ) .
+AB - 18599Hong , a good Maize ( Zea mays ) inbred line as well as good transformation acceptor with high regeneration capacity , was used for isolating embryonic callus regeneration genes .
+Subtractive library was constructed by Suppression subtractive hybridization and screened by Reverse Northern Hybridization .
+The clones of No . 27 was randomly picked to sequence .
+NCBI blastx results showed the similarity to <GENE> elongation factor 1gamma </GENE> in rice .
+PMID - 18665917
+TI - The <GENE> DOF transcription factor OBP1 </GENE> is involved in cell cycle regulation in Arabidopsis thaliana .
+AB - In contrast to animal growth , plant growth is largely post - embryonic .
+Therefore plants have developed new mechanisms to precisely regulate cell proliferation by means of internal and external stimuli whilst the general core cell cycle machinery is conserved between eukaryotes .
+In this work we demonstrate a role for the Arabidopsis thaliana DNA - binding - with - one - finger ( DOF ) transcription factor <GENE> OBP1 </GENE> in the control of cell division upon developmental signalling .
+Inducible overexpression of <GENE> OBP1 </GENE> resulted in a significant overrepresentation of cell cycle genes among the upregulated transcripts .
+Direct targets of <GENE> OBP1 </GENE> , as verified by chromatin immunoprecipitation , include atleast the core cell cycle gene CYCD3 ; 3 and the replication - specific transcription factor gene AtDOF2 ; 3 .
+Consistent with our molecular data , short - term activation of <GENE> OBP1 </GENE> in cell cultures affected cell cycle re - entry , shortening the duration of the G ( 1 ) phase and the overall length of the cell cycle , whilst constitutive overexpression of <GENE> OBP1 </GENE> in plants influenced cell size and cell number , leading to a dwarfish phenotype .
+Expression during embryogenesis , germination and lateral root initiation suggests an important role for <GENE> OBP1 </GENE> in cell cycle re - entry , operating as a transcriptional regulator of key cell cycle genes .
+Our findings provide significant input into our understanding of how cell cycle activity is incorporated into plant growth and development .
+PMID - 21143673
+TI - Transcriptional reprogramming regulated by <GENE> WRKY18 </GENE> and <GENE> WRKY40 </GENE> facilitates powdery mildew infection of Arabidopsis .
+AB - The two closely related Arabidopsis transcription factors , <GENE> WRKY18 </GENE> and <GENE> WRKY40 </GENE> , play a major and partly redundant role in PAMP - triggered basal defense .
+We monitored the transcriptional reprogramming induced by the powdery mildew fungus , Golovinomyces orontii , during early stages of infection with respect to the role of <GENE> WRKY18 / 40 </GENE> .
+Expression of & gt ; 1300 Arabidopsis genes was differentially altered already 8 hours post infection ( hpi ) , indicating rapid pre - penetration signaling between the pathogen and the host .
+We found that <GENE> WRKY18 / 40 </GENE> negatively affects pre - invasion host defenses and deduced a subset of genes that appear to be under WRKY18 / 40 control .
+A mutant lacking the <GENE> WRKY18 / 40 repressors </GENE> executes pathogen - dependent but exaggerated expression of some defense genes leading , for example , to strongly elevated levels of camalexin .
+This implies that <GENE> WRKY18 / 40 act </GENE> in a feedback repression system controlling basal defense .
+Moreover , using chromatin immunoprecipitation ( ChIP ) , direct in vivo interactions of <GENE> WRKY40 </GENE> to promoter regions containing W box elements of the regulatory gene <GENE> EDS1 </GENE> , the <GENE> AP2 - type transcription factor gene RRTF1 </GENE> and to <GENE> JAZ8 </GENE> , a member of the <GENE> JA - signaling repressor gene </GENE> family were demonstrated .
+Our data support a model in which WRKY18 / 40 negatively modulate the expression of positive regulators of defense such as <GENE> CYP71A13 </GENE> , <GENE> EDS1 </GENE> and <GENE> PAD4 </GENE> , but positively modulate the expression of some key JA - signaling genes by partly suppressing the expression of JAZ repressors .
+PMID - 21169509
+<GENE> TI - RanGAP2 </GENE> mediates nucleocytoplasmic partitioning of the <GENE> NB - LRR immune receptor </GENE> Rx in the Solanaceae , thereby dictating <GENE> Rx </GENE> function .
+AB - The potato ( Solanum tuberosum ) nucleotide binding - <GENE> leucine - rich repeat immune receptor </GENE> Rx confers resistance to Potato virus X ( PVX ) and requires <GENE> Ran GTPase - activating protein 2 </GENE> ( <GENE> RanGAP2 </GENE> ) for effective immune signaling .
+Although Rx does not contain a discernible nuclear localization signal , the protein localizes to both the cytoplasm and nucleus in Nicotiana benthamiana .
+Transient coexpression of <GENE> Rx </GENE> and cytoplasmically localized <GENE> RanGAP2 sequesters </GENE> Rx in the cytoplasm .
+This relocation of the immune receptor appeared to be mediated by the physical interaction between <GENE> Rx </GENE> and <GENE> RanGAP2 </GENE> and was independent of the concomitant increased <GENE> GAP </GENE> activity .
+Coexpression with <GENE> RanGAP2 </GENE> also potentiates Rx - mediated immune signaling , leading to a hypersensitive response ( HR ) and enhanced resistance to PVX .
+Besides sequestration , <GENE> RanGAP2 </GENE> also stabilizes Rx , a process that likely contributes to enhanced defense signaling .
+Strikingly , coexpression of <GENE> Rx </GENE> with the <GENE> Rx - interacting WPP domain </GENE> of <GENE> RanGAP2 </GENE> fused to a nuclear localization signal leads to hyperaccumulation of both the <GENE> WPP domain </GENE> and <GENE> Rx </GENE> in the nucleus .
+As a consequence , both Rx - mediated resistance to PVX and the HR induced by auto - active <GENE> Rx mutants </GENE> are significantly suppressed .
+These data show that a balanced nucleocytoplasmic partitioning of <GENE> Rx </GENE> is required for proper regulation of defense signaling .
+Furthermore , our data indicate that <GENE> RanGAP2 </GENE> regulates this partitioning by serving as a cytoplasmic retention factor for Rx .
+PMID - 11128998
+TI - Homology predicted structure and functional interaction of <GENE> ferredoxin </GENE> from the eukaryotic alga Chlamydomonas reinhardtii with <GENE> nitrite reductase </GENE> and <GENE> glutamate synthase </GENE> .
+<GENE> AB - Ferredoxin </GENE> ( <GENE> Fd </GENE> ) from Chlamydomonas reinhardtii is composed of 94 amino - acid residues and a [ 2Fe - 2S ] cluster .
+The homology modelling technique has been used to predict the tertiary structure of C . reinhardtii Fd .
+The overall structure shows the typical fifth - stranded beta - grasp plus two additional beta - sheets and three alpha - helices .
+Site - directed mutagenesis of recombinant Fd has allowed us to obtain four point mutants and one double mutant - - all mutations being located in the short alpha - helix at the carboxy - terminal segment as well as a triple mutant affected on helix alpha1 .
+Crosslinking studies and measurement of enzymatic activities reveal that the residues changed are critical for the interaction of <GENE> Fd </GENE> with <GENE> glutamate synthase </GENE> ( <GENE> GOGAT </GENE> ) and <GENE> nitrite reductase </GENE> ( <GENE> NiR </GENE> ) .
+Potentiometric analyses of the <GENE> Fd mutants </GENE> show that the replacement of glutamate in position 91 drastically changes the redox potential value ( 70 mV ) , thereby suggesting that such a glutamate can modulate the reactivity of <GENE> Fd </GENE> towards its reaction partners .
+According to results herein presented , the reported mutations modify the electrostatic interactions within the complex formed between <GENE> Fd </GENE> and <GENE> GOGAT </GENE> or <GENE> NiR </GENE> .
+PMID - 11779628
+TI - Rice ( Oryza sativa ) contains a novel isoform of <GENE> glutamate decarboxylase </GENE> that lacks an authentic calmodulin - binding domain at the C - terminus .
+AB - We have isolated full - length cDNAs for two distinct isoforms of <GENE> glutamate decarboxylase </GENE> ( <GENE> GAD </GENE> ) , designated <GENE> OsGAD1 </GENE> and <GENE> OsGAD2 </GENE> from a rice shoot cDNA library .
+Open reading frames found in <GENE> OsGAD1 </GENE> and <GENE> OsGAD2 cDNAs </GENE> encode putative proteins of 501 ( 56 . 7 kDa ) and 500 amino acids ( 55 . 6 kDa ) , respectively .
+They show 69 % identity to each other and 67 - 78 % identity to dicotyledonous counterpart sequences determined so far .
+Comparative analysis of relevant genomic clones obtained from the rice genomic library with these cDNAs as probes demonstrated that the number and sizes of introns deduced for these two genes differ considerably .
+Interestingly , in the regions in the putative gene products corresponding to the C - terminal 30 - amino - acid peptide known as the <GENE> calmodulin - binding domain </GENE> of <GENE> plant GADs </GENE> , <GENE> OsGAD1 </GENE> possesses a typical motif , while <GENE> OsGAD2 </GENE> contains several substitutions of amino acids that contribute strongly to the binding of <GENE> calmodulin </GENE> ( <GENE> CaM </GENE> ) .
+An in vitro CaM - binding assay of these proteins over - expressed in Escherichia coli revealed that <GENE> OsGAD1 </GENE> can in fact bind specifically to <GENE> bovine CaM </GENE> but <GENE> OsGAD2 </GENE> cannot .
+RNA analysis showed that transcripts of <GENE> OsGAD1 </GENE> and <GENE> OsGAD2 </GENE> were present in all tissues examined , but their expression was differentially regulated , atleast in roots and maturing seeds .
+PMID - 11785938
+TI - Identification of a <GENE> S - ribonuclease - binding protein </GENE> in Petunia hybrida .
+AB - To investigate protein - protein interactions in gametophytic self - incompatibility , we used a yeast two - hybrid assay to identify proteins that could interact with the <GENE> S - ribonuclease protein </GENE> .
+These assays identified a pollen - expressed protein , which we have named <GENE> PhSBP1 </GENE> , that appears to bind with a high degree of specificity to the <GENE> Petunia hybrida S - ribonuclease </GENE> .
+Although <GENE> PhSBP1 </GENE> activates reporter gene expression only when expressed in tandem with a <GENE> S - RNAse bait protein </GENE> , binding is not allele - specific .
+Sequence analysis demonstrated that <GENE> PhSBP1 </GENE> contained a C - terminal cysteine - rich region that includes a RING - HC domain .
+Because many RING - finger domain proteins appear to function as <GENE> E3 ubiquitin ligases </GENE> , our results suggest that ubiquitination and protein degradation may play a role in regulating self - incompatibility interactions .
+Together , these results suggest that <GENE> PhSBPI </GENE> may be a candidate for the recently proposed general inhibitor ( RI ) of self - incompatibility ribonucleases .
+PMID - 12509505
+TI - Canonical histidine kinase activity of the transmitter domain of the <GENE> ETR1 ethylene receptor </GENE> from Arabidopsis is not required for signal transmission .
+<GENE> AB - Ethylene </GENE> signaling in plants is mediated by a family of receptors related to bacterial two - component histidine kinases .
+Of the five members of the <GENE> Arabidopsis ethylene receptor family , members of subfamily I </GENE> ( <GENE> ETR1 </GENE> and <GENE> ERS1 </GENE> ) contain completely conserved <GENE> histidine kinase domains </GENE> , whereas members of subfamily II ( <GENE> ETR2 </GENE> , <GENE> EIN4 </GENE> , and <GENE> ERS2 </GENE> ) lack conserved residues thought to be necessary for kinase activity .
+To examine the role of the conserved <GENE> histidine kinase domain </GENE> in receptor signaling , <GENE> ers1 </GENE> ; <GENE> etr1 </GENE> loss - of - function double mutants were generated .
+The double mutants exhibited a severe constitutive ethylene response phenotype consistent with the negative regulator model for receptor function .
+The adult <GENE> ers1 - 2 </GENE> ; <GENE> etr1 - 6 </GENE> and <GENE> ers1 - 2 </GENE> ; <GENE> etr1 - 7 </GENE> phenotypes included miniature rosette size , delayed flowering , and both male and female sterility , whereas etiolated - seedling responses were less affected .
+Chimeric transgene constructs in which the <GENE> ETR1 promoter </GENE> was used to drive expression of cDNAs for each of the five receptor isoforms were transferred into the <GENE> ers1 - 2 </GENE> ; <GENE> etr1 - 7 double - mutant plants </GENE> .
+Subfamily I constructs restored normal growth , whereas subfamily II constructs failed to rescue the double mutant , providing evidence for a unique role for subfamily I in receptor signaling .
+However , transformation of either the <GENE> ers1 - 2 </GENE> ; <GENE> etr1 - 6 </GENE> or <GENE> ers1 - 2 </GENE> ; <GENE> etr1 - 7 mutant </GENE> with a kinase - inactivated <GENE> ETR1 </GENE> genomic clone also resulted in complete restoration of normal growth and ethylene responsiveness in the double - mutant background , leading to the conclusion that canonical <GENE> histidine kinase </GENE> activity by receptors is not required for ethylene receptor signaling .
+PMID - 23277363
+TI - A dominant point mutation in a RINGv <GENE> E3 ubiquitin ligase </GENE> homoeologous gene leads to cleistogamy in Brassica napus .
+AB - In the allopolyploid Brassica napus , we obtained a petal - closed flower mutation by ethyl methanesulfonate mutagenesis .
+Here , we report cloning and characterization of the <GENE> Bn - CLG1A </GENE> ( <GENE> CLG </GENE> for cleistogamy ) gene and the <GENE> Bn - clg1A - 1D mutant allele </GENE> responsible for the cleistogamy phenotype .
+<GENE> Bn - CLG1A </GENE> encodes a <GENE> RINGv E3 ubiquitin ligase </GENE> that is highly conserved across eukaryotes .
+In the <GENE> Bn - clg1A - 1D mutant allele </GENE> , a C - to - T transition converts a Pro at position 325 to a Leu ( P325L ) , causing a dominant mutation leading to cleistogamy .
+B . napus and Arabidopsis thaliana plants transformed with a <GENE> Bn - clg1A - 1D allele </GENE> show cleistogamous flowers , and characterization of these flowers suggests that the <GENE> Bn - clg1A - 1D mutation </GENE> causes a pronounced negative regulation of cutin biosynthesis or loading and affects elongation or differentiation of petal and sepal cells .
+This results in an inhibition or a delay of petal development , leading to folded petals .
+A homoeologous gene ( <GENE> Bn - CLG1C </GENE> ) , which shows 99 . 5 % amino acid identity and is also constitutively and equally expressed to the <GENE> wild - type Bn - CLG1A gene </GENE> , was also identified .
+We showed that <GENE> P325L </GENE> is not a loss - of - function mutation and did not affect expression of <GENE> Bn - clg1A - 1D </GENE> or <GENE> Bn - CLG1C </GENE> .
+Our findings suggest that P325L is a gain - of - function semidominant mutation , which led to either hyper - or neofunctionalization of a redundant homoeologous gene .
+PMID - 11752373
+TI - The signaling mechanism of <GENE> Arabidopsis CRY1 </GENE> involves direct interaction with <GENE> COP1 </GENE> .
+AB - Dark - grown transgenic Arabidopsis seedlings expressing the C - terminal domains ( CCT ) of the cryptochrome ( CRY ) blue light photoreceptors exhibit features that are normally associated only with light - grown seedlings , indicating that the signaling mechanism of Arabidopsis <GENE> CRY </GENE> is mediated through CCT .
+The phenotypic properties mediated by CCT are remarkably similar to those of the <GENE> constitutive photomorphogenic1 </GENE> ( <GENE> cop1 </GENE> ) mutants .
+Here we show that Arabidopsis <GENE> cryptochrome 1 </GENE> ( <GENE> CRY1 </GENE> ) and its C - terminal domain ( <GENE> CCT1 </GENE> ) interacted strongly with the <GENE> COP1 protein </GENE> .
+Coimmunoprecipitation studies showed that <GENE> CRY1 </GENE> was bound to <GENE> COP1 </GENE> in extracts from both dark - and light - grown Arabidopsis .
+An interaction also was observed between the C - terminal domain of Arabidopsis <GENE> phytochrome B </GENE> and <GENE> COP1 </GENE> , suggesting that <GENE> phytochrome </GENE> signaling also proceeds , atleast in part , through direct interaction with <GENE> COP1 </GENE> .
+These findings give new insight into the initial step in light signaling in Arabidopsis , providing a molecular link between the <GENE> blue light receptor </GENE> , <GENE> CRY1 </GENE> , and <GENE> COP1 </GENE> , a negative regulator of photomorphogenesis .
+PMID - 12506994
+TI - Identification of a wheat allergen , Tri a Bd 36K , as a peroxidase .
+AB - A 36 - kDa allergen , Tri a Bd 36K , was purified from <GENE> wheat albumin </GENE> and characterized .
+The protein was similar to <GENE> barley peroxidase BP - 1 </GENE> both in its amino acid sequence and <GENE> peroxidase </GENE> activity .
+The enzyme seemed to contain L - fucose and D - mannose and the glycan moiety reacted with <GENE> IgE antibodies </GENE> in a patient ' s serum .
+PMID - 17018034
+TI - The <GENE> C2 </GENE> domain protein <GENE> BAP1 </GENE> negatively regulates defense responses in Arabidopsis .
+AB - The Arabidopsis <GENE> BAP1 gene </GENE> encodes a small protein with a <GENE> C2 </GENE> - like domain .
+Here we show that the <GENE> BAP1 protein </GENE> is capable of binding to phospholipids in a calcium - dependent manner and is associated with membranes in vivo .
+We identify multiple roles of <GENE> BAP1 </GENE> in negatively regulating defense responses and cell death in Arabidopsis thaliana .
+The loss of <GENE> BAP1 </GENE> function confers an enhanced disease resistance to virulent bacterial and oomycete pathogens .
+The enhanced resistance is mediated by salicylic acid , <GENE> PAD4 </GENE> and a disease resistance gene SNC1 .
+<GENE> BAP1 </GENE> is also involved in the control of cell death , which is suggested by an altered hypersensitive response to an avirulent bacterial pathogen in the <GENE> bap1 </GENE> loss - of - function mutant .
+<GENE> BAP1 </GENE> overexpression leads to an enhanced susceptibility to a virulent oomycete , suggesting a role for <GENE> BAP1 </GENE> in basal defense response .
+Furthermore , the <GENE> BAP1 protein </GENE> probably functions together with an evolutionarily conserved <GENE> C2 </GENE> domain protein <GENE> BON1 </GENE> / <GENE> CPN1 </GENE> to negatively regulate defense responses in plants .
+PMID - 17114354
+TI - The transcription factors <GENE> WRKY11 </GENE> and <GENE> WRKY17 </GENE> act as negative regulators of basal resistance in Arabidopsis thaliana .
+AB - Transcription factors are believed to play a pivotal role in the activation and fine - tuning of plant defense responses , but little is known about the exact function of individual transcription factors in this process .
+We analyzed the role of the IId subfamily of <GENE> WRKY </GENE> transcription factors in the regulation of basal resistance to Pseudomonas syringae pv tomato ( Pst ) .
+The expression of four members of the subfamily was induced upon challenge with virulent and avirulent strains of Pst .
+Mutant analyses revealed that loss of <GENE> WRKY11 </GENE> function increased resistance toward avirulent and virulent Pst strains and that resistance was further enhanced in <GENE> wrky11 </GENE> <GENE> wrky17 </GENE> double mutant plants .
+Thus , <GENE> WRKY11 </GENE> and <GENE> WRKY17 </GENE> act as negative regulators of basal resistance to Pst .
+Genome - wide expression analysis and expression studies of selected genes in single and double mutants demonstrated that both transcription factors modulate transcriptional changes in response to pathogen challenge .
+Depending on the target gene , <GENE> WRKY11 </GENE> and <GENE> WRKY17 </GENE> act either specifically or in a partially redundant manner .
+We demonstrate complex cross - regulation within the IId WRKY subfamily and provide evidence that both WRKY transcription factors are involved in the regulation of <GENE> Pst </GENE> - induced jasmonic acid - dependent responses .
+These results provide genetic evidence for the importance of WRKY11 and WRKY17 in plant defense .
+PMID - 23484102
+TI - Molecular cloning , expression , purification , and functional characterization of <GENE> dammarenediol synthase </GENE> from <GENE> Panax ginseng </GENE> .
+AB - The objective of this study is to clone and charecterize the expression of <GENE> dammarenediol synthase gene </GENE> and then to determine the relationship between the expression of <GENE> dammarenediol synthase gene </GENE> that is involved in the ginsenoside biosynthetic pathway and the ginsenoside content .
+A cDNA phage library was constructed from a five - year - old ginseng root .
+The cDNA library was screened for the <GENE> dammarenediol synthase gene </GENE> by using its specific primers .
+It was further cloned and expressed in pET - 30a vector .
+The recombinant plasmid pET - 30a - DS was expressed in Rosetta E . coli .
+The <GENE> recombinant DS protein </GENE> was purified by affinity chromatography .
+The production of dammarenediol was detected by liquid chromatography - mass spectrometry ( LC - MS ) .
+Results showed that <GENE> dammarenediol synthase gene </GENE> was cloned from the cDNA library and was expressed in Rosetta E . coli and the SDS - PAGE analysis showed the presence of purified <GENE> DS protein </GENE> .
+LS - MS showed the activity of <GENE> DS protein </GENE> , as the protein content increases the dammarenediol increases .
+Our results indicate that the <GENE> recombinant dammarenediol synthase protein </GENE> could increase the production of dammarenediol and the expression of DS played a vital role in the biosynthesis of ginsenosides in P . ginseng .
+PMID - 15821986
+TI - Ammonium transporter genes in Chlamydomonas : the <GENE> nitrate - specific regulatory gene Nit2 </GENE> is involved in <GENE> Amt1 ; 1 </GENE> expression .
+AB - Ammonium transport is a key process in nitrogen metabolism .
+In the green alga Chlamydomonas , we have characterized molecularly the largest family of ammonium transporters ( <GENE> AMT1 </GENE> ) so far described consisting of eight members .
+<GENE> CrAmt1 genes </GENE> have an interesting transcript structure with some very small exons .
+Differential expression patterns were found for each <GENE> CrAmt1 gene </GENE> in response to the nitrogen source by using Real Time PCR .
+These expression patterns were similar under high and low CO2 atmosphere .
+CrAmt1 ; 1 expression was characterized in detail .
+It was repressed in both ammonium and nitrate medium , and strongly expressed in nitrogen - free media .
+Treatment with a <GENE> Glutamine synthetase </GENE> inhibitor released partially repression in ammonium and nitrate suggesting that ammonium and its derivatives participate in the observed repressing effects .
+By studying CrAmt1 ; 1 expression in mutants deficient at different steps of the nitrate assimilation pathway , it has been shown that nitrate has a double negative effect on this gene expression ; one related to its reduction to ammonium , and a second one by itself .
+This second effect of nitrate was dependent on the functionality of the regulatory gene Nit2 , specific for nitrate assimilation .
+Thus , <GENE> NIT2 </GENE> would have a dual role on gene expression : the well - known positive one on nitrate assimilation and a novel negative one on Amt1 ; 1 regulation .
+PMID - 16508106
+TI - Crystallization and preliminary X - ray crystallographic study of disproportionating enzyme from potato .
+AB - Disproportionating enzyme ( <GENE> D - enzyme </GENE> ; <GENE> EC 2 . 4 . 1 . 25 </GENE> ) is a 59 kDa protein that belongs to the <GENE> alpha - amylase family </GENE> .
+D - enzyme catalyses intramolecular and intermolecular transglycosylation reactions of <GENE> alpha - 1 , 4 glucan </GENE> .
+A crystal of the <GENE> D - enzyme </GENE> from potato was obtained by the hanging - drop vapour - diffusion method .
+Preliminary X - ray data showed that the crystal diffracts to 2 . 0 A resolution and belongs to space group C222 ( 1 ) , with unit - cell parameters a = 69 . 7 , b = 120 . 3 , c = 174 . 2 A .
+PMID - 17114278
+<GENE> TI </GENE> - <GENE> AtERF14 </GENE> , a member of the <GENE> ERF family of transcription factors </GENE> , plays a nonredundant role in plant defense .
+AB - We had previously shown that several transcription factors of the ethylene ( ET ) response factor ( <GENE> ERF </GENE> ) family were induced with different but overlapping kinetics following challenge of Arabidopsis ( Arabidopsis thaliana ) with <GENE> Pseudomonas syringae pv tomato DC3000 </GENE> ( <GENE> avrRpt2 </GENE> ) .
+One of these genes , a transcriptional activator , <GENE> AtERF14 </GENE> , was induced at the same time as <GENE> ERF - target genes </GENE> ( <GENE> ChiB </GENE> , <GENE> basic chitinase </GENE> ) .
+To unravel the potential function of <GENE> AtERF14 </GENE> in regulating the plant defense response , we have analyzed gain - and loss - of - function mutants .
+We show here that <GENE> AtERF14 </GENE> has a prominent role in the plant defense response , since overexpression of <GENE> AtERF14 </GENE> had dramatic effects on both plant phenotype and defense gene expression and <GENE> AtERF14 </GENE> loss - of - function mutants showed impaired induction of defense genes following exogenous ET treatment and increased susceptibility to Fusarium oxysporum .
+Moreover , the expression of other <GENE> ERF genes </GENE> involved in defense and ET / jasmonic acid responses , such as <GENE> ERF1 </GENE> and <GENE> AtERF2 </GENE> , depends on <GENE> AtERF14 </GENE> expression .
+A number of ERFs have been shown to function in the defense response through overexpression .
+However , the effect of loss of <GENE> AtERF14 </GENE> function on <GENE> defense gene </GENE> expression , pathogen resistance , and regulation of the expression of other <GENE> ERF genes </GENE> is unique thus far .
+These results suggest a unique role for <GENE> AtERF14 </GENE> in regulating the plant defense response .
+PMID - 19825601
+<GENE> TI - FISSION1A </GENE> and <GENE> FISSION1B </GENE> proteins mediate the fission of peroxisomes and mitochondria in Arabidopsis .
+AB - Peroxisomes and mitochondria are metabolically diverse organelles that act in concert in a number of pathways in eukaryotes , including photorespiration and lipid mobilization in plants .
+The division machineries of these two types of organelles also share several components such as <GENE> dynamin - related proteins </GENE> ( <GENE> DRPs </GENE> ) and their organelle anchor , the FISSION1 ( FIS1 ) protein .
+In Arabidopsis , members of the <GENE> DRP3 </GENE> and <GENE> FIS1 small protein families </GENE> , namely <GENE> DRP3A </GENE> , <GENE> DRP3B </GENE> , <GENE> FIS1A </GENE> , and <GENE> FIS1B </GENE> , are each dual - targeted to peroxisomes and mitochondria and are required for the division of both organelles ; <GENE> DRP3A </GENE> and <GENE> DRP3B </GENE> are partially redundant in function .
+To further determine the contribution of <GENE> FIS1A </GENE> and <GENE> FIS1B </GENE> to the division of peroxisomes and mitochondria , we analyzed plants overexpressing <GENE> FIS1A </GENE> or <GENE> FIS1B </GENE> and mutants in which the functions of both proteins were disrupted .
+Domains in FIS1A and FIS1B required for peroxisomal targeting were also dissected .
+Our results demonstrate that <GENE> FIS1A </GENE> and <GENE> FIS1B </GENE> play rate - limiting and partially overlapping roles in promoting the fission of peroxisomes and mitochondria .
+Furthermore , although the C - terminus of <GENE> FIS1 </GENE> is both necessary and sufficient for targeting to peroxisomes , the role of the short C - terminal segment adjacent to the transmembrane domain may differ among diverse species in peroxisomal targeting .
+PMID - 21162722
+TI - Isolation and functional characterization of <GENE> CE1 binding proteins </GENE> .
+<GENE> AB - BACKGROUND </GENE> :
+Abscisic acid ( ABA ) is a plant hormone that controls seed germination , protective responses to various abiotic stresses and seed maturation .
+The ABA - dependent processes entail changes in gene expression .
+Numerous genes are regulated by ABA , and promoter analyses of the genes revealed that cis - elements sharing the ACGTGGC consensus sequence are ubiquitous among ABA - regulated gene promoters .
+The importance of the core sequence , which is generally known as ABA response element ( ABRE ) , has been demonstrated by various experiments , and its cognate transcription factors known as <GENE> ABFs </GENE> / <GENE> AREBs </GENE> have been identified .
+Although necessary , ABRE alone is not sufficient , and another cis - element known as " coupling element ( CE ) " is required for full range ABA - regulation of gene expression .
+Several CEs are known .
+However , despite their importance , the cognate transcription factors mediating ABA response via CEs have not been reported to date .
+Here , we report the isolation of transcription factors that bind one of the coupling elements , <GENE> CE1 </GENE> .
+RESULTS : To isolate <GENE> CE1 binding proteins </GENE> , we carried out yeast one - hybrid screens .
+Reporter genes containing a trimer of the CE1 element were prepared and introduced into a yeast strain .
+The yeast was transformed with library DNA that represents RNA isolated from ABA - treated Arabidopsis seedlings .
+From the screen of 3 . 6 million yeast transformants , we isolated 78 positive clones .
+Analysis of the clones revealed that a group of <GENE> AP2 </GENE> / <GENE> ERF </GENE> domain proteins binds the CE1 element .
+We investigated their expression patterns and analyzed their overexpression lines to investigate the in vivo functions of the <GENE> CE element binding factors </GENE> ( <GENE> CEBFs </GENE> ) .
+Here , we show that one of the <GENE> CEBFs </GENE> , <GENE> AtERF13 </GENE> , confers ABA hypersensitivity in Arabidopsis , whereas two other CEBFs enhance sugar sensitivity .
+CONCLUSIONS : Our results indicate that a group of <GENE> AP2 </GENE> / <GENE> ERF superfamily proteins </GENE> interacts with <GENE> CE1 </GENE> .
+Several CEBFs are known to mediate defense or abiotic stress response , but the physiological functions of other CEBFs remain to be determined .
+Our in vivo functional analysis of several CEBFs suggests that they are likely to be involved in ABA and / or sugar response .
+Together with previous results reported by others , our current data raise an interesting possibility that the coupling element <GENE> CE1 </GENE> may function not only as an ABRE but also as an element mediating biotic and abiotic stress responses .
+PMID - 11747817
+TI - The Arabidopsis <GENE> myc </GENE> / <GENE> bHLH gene </GENE> ALCATRAZ enables cell separation in fruit dehiscence .
+<GENE> AB - BACKGROUND </GENE> :
+Several processes of plant development , such as abscission , pollen release , fruit dehiscence , and seed dispersal , require organs or tissues to physically disassociate or split open .
+Due to the immobility of plant cells , these processes occur through coordinated mechanisms of cell separation that are not found in animals .
+Arabidopsis produces dry dehiscent fruits ( siliques ) making it a convenient system for the genetic study of cell separation associated with dehiscence .
+RESULTS : We describe here a novel mutation in Arabidopsis called alcatraz ( alc ) , which prevents dehiscence of fruit by specifically blocking the separation of the valve cells from the replum .
+The <GENE> ALC gene </GENE> is shown to encode a protein related to the <GENE> myc / bHLH family of transcription factors </GENE> and is expressed in the valve margins of the silique , which is the site of cell separation during dehiscence .
+Detailed studies using TEM indicates that ALC enables cell separation in Arabidopsis fruit dehiscence by promoting the differentiation of a strip of labile nonlignified cells sandwiched between layers of lignified cells .
+Transgenic plants expressing antisense or dominant - negative ALC are defective in silique dehiscence .
+CONCLUSIONS : Cell separation in fruit dehiscence requires a specialized cell layer which is nonlignified and capable of autolysis , specified by a <GENE> myc / bHLH protein </GENE> encoded by ALC .
+These findings may have relevance to other processes requiring cell separation , as well as for the practical design of crops with reduced seed losses .
+PMID - 12481999
+TI - The <GENE> mitogen - activated protein kinase gene MAF1 </GENE> is essential for the early differentiation phase of appressorium formation in Colletotrichum lagenarium .
+AB - Colletotrichum lagenarium , the causal agent of cucumber anthracnose , invades host plants by forming a specialized infection structure called an appressorium .
+In this fungus , the <GENE> mitogen - activated protein kinase </GENE> ( <GENE> MAPK </GENE> ) gene <GENE> CMK1 </GENE> is involved in several steps of the infection process , including appressorium formation .
+In this study , the goal was to investigate roles of other MAPKs in C . lagenarium .
+The <GENE> MAPK </GENE> gene <GENE> MAF1 </GENE> , related to <GENE> Saccharomyces cerevisiae MPK1 </GENE> and <GENE> Magnaporthe grisea MPS1 </GENE> , was isolated and functionally characterized .
+The <GENE> maf1 gene replacement mutants </GENE> grew normally , but there was a significant reduction in conidiation and fungal pathogenicity .
+The <GENE> M . grisea mps1 mutant </GENE> forms appressoria , but conidia of the <GENE> C . lagenarium maf1 mutants </GENE> produced elongated germ tubes without appressoria on both host plant and glass , on which the wild type forms appressoria , suggesting that <GENE> MAF1 </GENE> has an essential role in appressorium formation on inductive surfaces .
+On a nutrient agar , wild - type conidia produced elongated germ tubes without appressoria .
+The morphological phenotype of the wild type on the nutrient agar was similar to that of the <GENE> maf1 mutants </GENE> on inductive surfaces , suggesting repression of the <GENE> MAF1 </GENE> - mediated appressorium differentiation on the nutrient agar .
+The <GENE> cmk1 mutants </GENE> failed to form normal appressoria but produced swollen , appressorium - like structures on inductive surfaces , which is morphologically different from the <GENE> maf1 mutants </GENE> .
+These findings suggest that <GENE> MAF1 </GENE> is required for the early differentiation phase of appressorium formation , whereas <GENE> CMK1 </GENE> is involved in the maturation of appressoria .
+PMID - 12482876
+TI - The small <GENE> ubiquitin </GENE> - like modifier ( SUMO ) protein modification system in Arabidopsis .
+Accumulation of <GENE> SUMO1 </GENE> and - 2 conjugates is increased by stress .
+<GENE> AB - Small ubiquitin - like modifier </GENE> ( <GENE> SUMO </GENE> ) is a member of the superfamily of <GENE> ubiquitin </GENE> - like polypeptides that become covalently attached to various intracellular target proteins as a way to alter their function , location , and / or half - life .
+Here we show that the SUMO conjugation system operates in plants through a characterization of the Arabidopsis SUMO pathway .
+An eight - gene family encoding the SUMO tag was discovered as were genes encoding the various enzymes required for SUMO processing , ligation , and release .
+A diverse array of conjugates could be detected , some of which appear to be SUMO isoform - specific .
+The levels of <GENE> SUMO1 </GENE> and - 2 conjugates but not SUMO3 conjugates increased substantially following exposure of seedlings to stress conditions , including heat shock , H ( 2 ) O ( 2 ) , ethanol , and the amino acid analog canavanine .
+The heat - induced accumulation could be detected within 2 min from the start of a temperature upshift , suggesting that <GENE> SUMO1 / 2 </GENE> conjugation is one of the early plant responses to heat stress .
+Overexpression of <GENE> SUMO2 </GENE> enhanced both the steady state levels of SUMO2 conjugates under normal growth conditions and the subsequent heat shock - induced accumulation .
+This accumulation was dampened in an Arabidopsis line engineered for increased thermotolerance by overexpressing the cytosolic isoform of the <GENE> HSP70 chaperonin </GENE> .
+Taken together , the SUMO conjugation system appears to be a complex and functionally heterogeneous pathway for protein modification in plants with initial data indicating that one important function may be in stress protection and / or repair .
+PMID - 12506203
+<GENE> TI - NDP kinase 2 </GENE> interacts with two oxidative stress - activated <GENE> MAPKs </GENE> to regulate cellular redox state and enhances multiple stress tolerance in transgenic plants .
+<GENE> AB - NDP kinases </GENE> ( <GENE> NDPKs </GENE> ) are multifunctional proteins that regulate a variety of eukaryotic cellular activities , including cell proliferation , development , and differentiation .
+However , much less is known about the functional significance of NDPKs in plants .
+We show here that <GENE> NDPK </GENE> is associated with H ( 2 ) O ( 2 ) - mediated <GENE> mitogen - activated protein kinase </GENE> signaling in plants .
+H ( 2 ) O ( 2 ) stress strongly induces the expression of the <GENE> NDPK2 gene </GENE> in Arabidopsis thaliana ( AtNDPK2 ) .
+Proteins from transgenic plants overexpressing <GENE> AtNDPK2 </GENE> showed high levels of autophosphorylation and <GENE> NDPK </GENE> activity , and they have lower levels of reactive oxygen species ( ROS ) than wild - type plants .
+Mutants lacking <GENE> AtNDPK2 </GENE> had higher levels of ROS than wild type .
+H ( 2 ) O ( 2 ) treatment induced the phosphorylation of two endogenous proteins whose molecular weights suggested they are <GENE> AtMPK3 </GENE> and <GENE> AtMPK6 </GENE> , two H ( 2 ) O ( 2 ) - activated A . thaliana <GENE> mitogen - activated protein kinases </GENE> .
+In the absence of H ( 2 ) O ( 2 ) treatment , phosphorylation of these proteins was slightly elevated in plants overexpressing <GENE> AtNDPK2 </GENE> but markedly decreased in the <GENE> AtNDPK2 deletion mutant </GENE> .
+Yeast two - hybrid and in vitro protein pull - down assays revealed that <GENE> AtNDPK2 </GENE> specifically interacts with <GENE> AtMPK3 </GENE> and <GENE> AtMPK6 </GENE> .
+Furthermore , <GENE> AtNDPK2 </GENE> also enhances the <GENE> myelin basic protein </GENE> phosphorylation activity of <GENE> AtMPK3 </GENE> in vitro .
+Finally , constitutive overexpression of <GENE> AtNDPK2 </GENE> in Arabidopsis plants conferred an enhanced tolerance to multiple environmental stresses that elicit ROS accumulation in situ .
+Thus , <GENE> AtNDPK2 </GENE> appears to play a previously uncharacterized regulatory role in H ( 2 ) O ( 2 ) - mediated <GENE> MAPK </GENE> signaling in plants .
+PMID - 15803418
+TI - Functional conservation and maintenance of expression pattern of FIDDLEHEAD - like genes in Arabidopsis and Antirrhinum .
+AB - In Arabidopsis , loss of function of the epidermis - specific <GENE> FDH gene </GENE> coding for a putative <GENE> beta - ketoacyl - CoA synthase </GENE> results in ectopic organ fusions in mutants .
+Corresponding mutants are not available for Antirrhinum majus , however , organ fusions can be induced in both species by chloroacetamide inhibitors of <GENE> beta - ketoacyl - CoA synthases </GENE> using a chemical genetics approach .
+We isolated the ortholog of <GENE> FDH </GENE> from Antirrhinum majus , the <GENE> ANTIRRHINUM FIDDLEHEAD </GENE> ( <GENE> AFI </GENE> ) gene , and showed that <GENE> AFI </GENE> complements <GENE> fdh </GENE> when expressed in the epidermis under control of the <GENE> FDH promoter </GENE> .
+Like <GENE> FDH </GENE> , the <GENE> AFI gene </GENE> exhibits protodermis - and epidermis - specific expression , and its promoter directs the expression of reporter genes to the epidermis in transgenic Antirrhinum and Arabidopsis .
+We demonstrate down - regulation of the <GENE> FDH promoter </GENE> in the epidermis of the ovary septum , thereby supporting the assumption that <GENE> FDH - like genes </GENE> may directly facilitate the cell - cell interactions that need to occur during carpel fusion and pollen tube growth .
+Up - regulation of <GENE> FDH </GENE> in the stomium , on the other hand , provides evidence for its possible involvement in cell separation during anther dehiscence .
+Down - regulation of the <GENE> FDH </GENE> and <GENE> AFI promoters </GENE> in the septum is observed in transgenic Arabidopsis but not in Antirrhinum plants .
+This probably reflects differences in the ontogeny of the ovary septum between the two species .
+We also show that <GENE> epidermis - specific FDH - like genes </GENE> may not be able to efficiently elongate fatty acid chains when misexpressed in seeds .
+PMID - 16478046
+<GENE> TI - MtENOD11 gene </GENE> activation during rhizobial infection and mycorrhizal arbuscule development requires a common AT - rich - containing regulatory sequence .
+AB - The <GENE> MtENOD11 gene </GENE> from the model legume Medicago truncatula is transcriptionally activated both in response to <GENE> Sinorhizobium meliloti Nod factors </GENE> and throughout infection of root tissues by the nitrogen - fixing microsymbiont .
+To identify the regulatory sequences involved in symbiosis - related <GENE> MtENOD11 </GENE> expression , a series of promoter deletions driving the <GENE> beta - glucuronidase reporter gene </GENE> were analyzed in transgenic M . truncatula roots .
+These studies have revealed that distinct regulatory regions are involved in infection - related <GENE> MtENOD11 </GENE> expression compared with preinfection ( Nod factor - mediated ) expression .
+In particular , the 257 - bp promoter sequence immediately upstream from the start codon is sufficient for infection - related expression , but is unable to drive gene transcription in response to the <GENE> Nod factor elicitor </GENE> .
+This truncated promoter is also sufficient to confer <GENE> MtENOD11 </GENE> expression during both the arbuscular mycorrhizal ( AM ) association and the parasitic interaction with root - knot nematodes .
+Site - directed mutagenesis further showed that a previously identified nodule - specific AT - rich motif is required for high - level <GENE> MtENOD11 </GENE> expression during S . meliloti infection as well as during AM colonization .
+However , mutation of this motif does not affect gene expression associated with nematode - feeding sites .
+Taken together , these results suggest a close link between regulatory mechanisms controlling transcriptional early <GENE> nodulin gene </GENE> activation during both rhizobial and AM root endosymbioses .
+PMID - 16949961
+<GENE> TI - Ferritin2 gene </GENE> in paraquat - susceptible and resistant biotypes of horseweed Conyza canadensis ( L . ) Cronq .
+<GENE> AB - Ferritins </GENE> , the multimeric iron storage proteins , are the main regulators of the cellular level of uncomplexed iron .
+<GENE> Ferritins </GENE> are encoded by <GENE> small gene families </GENE> and expressed differentially under various developmental conditions depending on iron availability , effect of hormones or oxygen radical generating agents .
+In the present work the primary structure of the <GENE> ferritin2 gene </GENE> from resistant and susceptible biotypes of horseweed Conyza canadensis was determined .
+This gene was found to exhibit great similarity and possess all the structural characteristics of known plant <GENE> ferritin2 genes </GENE> .
+The C . canadensis <GENE> ferritin2 genes </GENE> had identical primary structure in the two biotypes and were upregulated by paraquat ( Pq ) in both susceptible and resistant plants .
+The enhanced expression level was probably connected with defence reactions in the plants after Pq treatment .
+PMID - 17114582
+<GENE> TI - MtHAP2 - 1 </GENE> is a key transcriptional regulator of symbiotic nodule development regulated by microRNA169 in Medicago truncatula .
+AB - In the model legume Medicago truncatula , we identified a new transcription factor of the CCAAT - binding family , <GENE> MtHAP2 - 1 </GENE> , for which RNA interference ( RNAi ) and in situ hybridization experiments indicate a key role during nodule development , possibly by controlling nodule meristem function .
+We could also show that <GENE> MtHAP2 - 1 </GENE> is regulated by microRNA169 , whose overexpression leads to the same nodule developmental block as <GENE> MtHAP2 - 1 RNAi constructs </GENE> .
+The complementary expression pattern of <GENE> miR169 </GENE> and <GENE> MtHAP2 - 1 </GENE> and the phenotype of miR169 - resistant <GENE> MtHAP2 - 1 </GENE> nodules strongly suggest , in addition , that the miR169 - mediated restriction of <GENE> MtHAP2 - 1 </GENE> expression to the nodule meristematic zone is essential for the differentiation of nodule cells .
+PMID - 18726614
+TI - Functional characterization of key structural genes in rice flavonoid biosynthesis .
+AB - Rice is a model system for monocot but the molecular features of rice flavonoid biosynthesis have not been extensively characterized .
+Rice structural <GENE> gene homologs encoding chalcone synthase ( CHS ) , chalcone isomerase </GENE> ( <GENE> CHI </GENE> ) , <GENE> flavanone 3 - hydroxylase </GENE> ( <GENE> F3H </GENE> ) , <GENE> flavonoid 3 ' - hydroxylase </GENE> ( <GENE> F3 ' H ) , dihydroflavonol 4 - reductase </GENE> ( <GENE> DFR </GENE> ) , and <GENE> anthocyanidin synthase </GENE> ( <GENE> ANS </GENE> ) were identified by homology searches .
+Unique differential expression of <GENE> OsF3H </GENE> , <GENE> OsDFR </GENE> , and <GENE> OsANS1 </GENE> controlled by the <GENE> Pl ( w ) locus </GENE> , which contains the R / B - type regulatory genes <GENE> OSB1 </GENE> and <GENE> OSB2 </GENE> , was demonstrated during light - induced anthocyanin accumulation in T65 - Plw seedlings .
+Previously , F3H genes were often considered as early genes co - regulated with <GENE> CHS </GENE> and <GENE> CHI genes </GENE> in other plants .
+In selected non - pigmented rice lines , <GENE> OSB2 </GENE> is not expressed following illumination while their expressed OSB1sequences all contain the same nucleotide change leading to the T ( 64 ) M substitution within the conserved N - terminal interacting domain .
+Furthermore , the biochemical roles of the expressed rice structural genes ( <GENE> OsCHS1 </GENE> , <GENE> OsCHI </GENE> , <GENE> OsF3H </GENE> , and <GENE> OsF3 ' H </GENE> ) were established in planta for the first time by complementation in the appropriate Arabidopsis transparent testa mutants .
+Using yeast two - hybrid analysis , <GENE> OsCHS1 </GENE> was demonstrated to interact physically with <GENE> OsF3H </GENE> , <GENE> OsF3 ' H </GENE> , <GENE> OsDFR </GENE> , and <GENE> OsANS1 </GENE> , suggesting the existence of a macromolecular complex for anthocyanin biosynthesis in rice .
+Finally , flavones were identified as the major flavonoid class in the non - pigmented T65 seedlings in which the single - copy OsF3H gene was not expressed .
+Competition between flavone and anthocyanin pathways was evidenced by the significant reduction of tricin accumulation in the T65 - Plw seedlings .
+PMID - 18854335
+<GENE> TI - The receptor - like kinase SOL2 </GENE> mediates <GENE> CLE </GENE> signaling in Arabidopsis .
+<GENE> AB - Arabidopsis sol2 mutants </GENE> showed <GENE> CLV3 </GENE> peptide resistance .
+Twenty - six synthetic CLE peptides were examined in the <GENE> clv1 </GENE> , <GENE> clv2 </GENE> and <GENE> sol2 mutants </GENE> . <GENE> sol2 </GENE> showed different levels of resistance to the various peptides , and the spectrum of peptide resistance was quite similar to that of <GENE> clv2 </GENE> .
+<GENE> SOL2 encoded a receptor - like kinase protein </GENE> which is identical to CORYNE ( CRN ) .
+GeneChip analysis revealed that the expression of several genes was altered in the <GENE> sol2 root </GENE> tip .
+Here , we suggest that <GENE> SOL2 </GENE> , together with <GENE> CLV2 </GENE> , plays an important role in the regulation of root meristem development through the <GENE> CLE </GENE> signaling pathway .
+PMID - 11706177
+TI - Molecular characterization of two <GENE> Arabidopsis Ire1 homologs </GENE> , <GENE> endoplasmic reticulum - located transmembrane protein kinases </GENE> .
+AB - A major response of eukaryotic cells to the presence of unfolded proteins in the lumen of the endoplasmic reticulum ( ER ) is to activate genes that encode <GENE> ER - located molecular chaperones </GENE> , such as the binding protein .
+This response , called the unfolded protein response , requires the transduction of a signal from the ER to the nucleus .
+In yeast ( Saccharomyces cerevisiae ) and mammalian cells , an <GENE> ER - located transmembrane receptor protein kinase / ribonuclease called Ire1 </GENE> , with a sensor domain in the lumen of the ER , is the first component of this pathway .
+Here , we report the cloning and derived amino acid sequences of <GENE> AtIre1 - 1 </GENE> and <GENE> AtIre1 - 2 </GENE> , two Arabidopsis homologs of <GENE> Ire1 </GENE> .
+The two proteins are located in the perinuclear ER ( based on heterologous expression of fusions with <GENE> green fluorescent protein </GENE> ) .
+The expression patterns of the two genes ( using <GENE> beta - glucuronidase fusions </GENE> ) are nearly nonoverlapping .
+We also demonstrate functional complementation of the sensor domains of the two proteins in yeast and show that the <GENE> Ire1 - 2 protein </GENE> is capable of autotransphosphorylation .
+These and other findings are discussed in relation to the involvement of these genes in unfolded protein response signaling in plants .
+PMID - 12481088
+<GENE> TI - The maize gene terpene synthase 1 </GENE> encodes a <GENE> sesquiterpene synthase </GENE> catalyzing the formation of ( E ) - beta - farnesene , ( E ) - nerolidol , and ( E , E ) - farnesol after herbivore damage .
+AB - Maize ( Zea mays ) emits a mixture of volatile compounds upon attack by the Egyptian cotton leafworm ( Spodoptera littoralis ) .
+These substances , primarily mono - and sesquiterpenes , are used by parasitic wasps to locate the lepidopteran larvae , which are their natural hosts .
+This interaction among plant , lepidopteran larvae , and hymenopteran parasitoids benefits the plant and has been termed indirect defense .
+The committed step in the biosynthesis of the different skeletal types of mono - and sesquiterpenes is catalyzed by <GENE> terpene synthases </GENE> , a class of enzymes that forms a large variety of mono - and sesquiterpene products from prenyl diphosphate precursors .
+We isolated a <GENE> terpene synthase gene , terpene synthase 1 </GENE> ( <GENE> tps1 </GENE> ) , from maize that exhibits only a low degree of sequence identity to previously identified terpene synthases .
+Upon expression in a bacterial system , the encoded enzyme produced the acyclic sesquiterpenes , ( E ) - beta - farnesene , ( E , E ) - farnesol , and ( 3R ) - ( E ) - nerolidol , the last an intermediate in the formation of ( 3E ) - 4 , 8 - dimethyl - 1 , 3 , 7 - nonatriene .
+Both ( E ) - beta - farnesene and ( 3E ) - 4 , 8 - dimethyl - 1 , 3 , 7 - nonatriene are prominent compounds of the maize volatile blend that is emitted after herbivore damage .
+The biochemical characteristics of the encoded enzyme are similar to those of <GENE> terpene synthases </GENE> from both gymnosperms and dicotyledonous angiosperms , suggesting that catalysis involves a similar electrophilic reaction mechanism .
+The transcript level of <GENE> tps1 </GENE> in the maize cv B73 was elevated after herbivory , mechanical damage , and treatment with elicitors .
+In contrast , the increase in the transcript level of the <GENE> tps1 gene </GENE> or <GENE> gene homolog </GENE> in the maize cv Delprim after herbivory was less pronounced , suggesting that the regulation of <GENE> terpene synthase </GENE> expression may vary among maize varieties .
+PMID - 16511242
+TI - Expression , purification , crystallization and preliminary X - ray diffraction analysis of Arabidopsis thaliana <GENE> cyclophilin 38 </GENE> ( <GENE> AtCyp38 </GENE> ) .
+<GENE> AB - AtCyp38 </GENE> is one of the highly divergent multidomain cyclophilins from Arabidopsis thaliana .
+A recombinant form of <GENE> AtCyp38 ( residues 83 - 437 ) </GENE> was expressed in Escherichia coli and purified to homogeneity .
+The protein was crystallized using the vapour - batch technique with PEG 6000 and t - butanol as precipitants .
+Crystals of recombinant AtCyp38 diffracted X - rays to better than 2 . 5 A resolution at 95 K using a synchrotron - radiation source .
+The crystal belongs to the C - centred orthorhombic space group C222 ( 1 ) , with unit - cell parameters a = 58 . 2 , b = 95 . 9 , c = 167 . 5 A , and contains one molecule in the asymmetric unit .
+The selenomethionine derivative of the <GENE> AtCyp38 protein </GENE> was overexpressed , purified and crystallized in the same space group and data were collected to 3 . 5 A at the <GENE> NSLS synchrotron </GENE> .
+The structure is being solved by the MAD method .
+PMID - 21139440
+<GENE> TI - Illuminating COI1 </GENE> : a component of the <GENE> Arabidopsis jasomonate receptor </GENE> complex also interacts with ethylene signaling .
+AB - A significant portion of developmental and environmental responses in plants is mediated through phytohormone signaling , often if not always integrated with outputs from other signals .
+We have recently shown that <GENE> CORONATINE INSENSITIVE1 </GENE> ( <GENE> COI1 </GENE> ) , a component of a <GENE> jasmonate receptor </GENE> complex , is involved in ethylene - induced root growth inhibition of Arabidopsis , in the light .
+This response is neither due to elevated levels of jasmonates in response to ethylene treatment nor dependent on the known jasmonate signal - transduction cascade , except that it requires <GENE> COI1 </GENE> .
+Further , we have shown that the ethylene - induced <GENE> COI1 </GENE> - mediated pathway functions in parallel with , and additively to , the conventional ethylene signaling pathway , and that the light requirement is primarily for long photoperiods .
+This unexpected interaction of <GENE> COI1 </GENE> with ethylene signaling has also been extended to other developmental processes including germination and fertility .
+This addendum summarizes the earlier findings with some new insights , and describes and speculates on the mechanisms by which these processes are regulated , in the context of the interaction between <GENE> COI1 </GENE> and ethylene signaling .
+PMID - 21187379
+<GENE> TI - Adaptin - like protein </GENE> <GENE> TPLATE </GENE> and <GENE> clathrin </GENE> recruitment during plant somatic cytokinesis occurs via two distinct pathways .
+AB - Plant cytokinesis deploys a transport system that centers cell plate - forming vesicles and fuses them to form a cell plate .
+Here we show that the <GENE> adaptin - like protein </GENE> <GENE> TPLATE </GENE> and <GENE> clathrin light chain 2 </GENE> ( <GENE> CLC2 </GENE> ) are targeted to the expanding cell plate and to the equatorial subregion of the plasma membrane referred to as the cortical division zone ( CDZ ) .
+Bimolecular fluorescence complementation and immunodetection indicates that <GENE> TPLATE </GENE> interacts with <GENE> clathrin </GENE> .
+Pharmacological tools as well as analysis of protein targeting in a mutant background affecting cell plate formation allowed to discriminate two recruitment pathways for TPLATE and CLC2 .
+The cell plate recruitment pathway is dependent on phragmoplast microtubule organization and the formation and transport of secretory vesicles .
+The <GENE> CDZ </GENE> recruitment pathway , on the other hand , is activated at the end of cytokinesis and independent of trans - Golgi - derived vesicle trafficking .
+<GENE> TPLATE </GENE> and <GENE> CLC2 </GENE> do not accumulate at a narrow zone central of the CDZ .
+We have dubbed this subdomain the cortical division site and show that it corresponds precisely with the position where the cell plate merges with the parental wall .
+These data provide evidence that the plasma membrane is subject to localized endocytosis or membrane remodeling processes that are required for the fusion of the cell plate with a predefined region of the plasma membrane .
+PMID - 11811622
+TI - Purification and characterization of a 29kDa poly ( A ) - binding protein from chickpea ( Cicer arietinum ) epicotyl .
+<GENE> AB - A poly ( A ) - binding protein </GENE> ( <GENE> PABP </GENE> ) with mol wt 29 , 000 has been purified from chickpea ( Cicer arietinum ) epicotyl by ammonium sulfate fractionation and Cibacron blue F3 - GA chromatography , making a complex with poly ( A ) and elution of <GENE> PABP </GENE> - poly ( A ) complex at 45 degrees C from oligo d ( T ) - cellulose .
+The elution pattern and binding properties show that the purified protein is different from the <GENE> PABP </GENE> ( mol . wt 72 , 000 ) reported earlier from our laboratory .
+PMID - 16874047
+TI - The crystal structure of plant <GENE> ATG12 </GENE> and its biological implication in autophagy .
+<GENE> AB </GENE> - <GENE> Atg12 </GENE> is a post - translational modifier that is activated and conjugated to its single target , <GENE> Atg5 </GENE> , by a <GENE> ubiquitin </GENE> - like conjugation system .
+The <GENE> Atg12 </GENE> - <GENE> Atg5 </GENE> conjugate is essential for autophagy , the bulk degradation process of cytoplasmic components by the vacuolar / lysosomal system .
+Here , we demonstrate that the Atg12 conjugation system exists in Arabidopsis and is essential for plant autophagy as well as in yeast and mammals .
+We also report the crystal structure of Arabidopsis thaliana ( At ) ATG12 at 1 . 8 A resolution .
+Despite no obvious sequence homology with <GENE> ubiquitin </GENE> , the structure of <GENE> AtATG12 </GENE> shows a <GENE> ubiquitin </GENE> fold strikingly similar to those of mammalian homologs of <GENE> Atg8 </GENE> , the other <GENE> ubiquitin </GENE> - like modifier essential for autophagy , which is conjugated to phosphatidylethanolamine .
+Two types of hydrophobic patches are present on the surface of <GENE> AtATG12 </GENE> : one is conserved in both <GENE> Atg12 </GENE> and <GENE> Atg8 </GENE> orthologs , while the other is unique to Atg12 orthologs .
+Considering that they share Atg7 as an E1 - like enzyme , we suggest that the first hydrophobic patch is responsible for the conjugation reaction , while the latter is involved in <GENE> Atg12 </GENE> - specific functions .
+PMID - 17714429
+TI - The <GENE> E3 ligase AtCHIP </GENE> ubiquitylates <GENE> FtsH1 </GENE> , a component of the <GENE> chloroplast FtsH protease </GENE> , and affects protein degradation in chloroplasts .
+AB - The Arabidopsis <GENE> E3 ligase AtCHIP </GENE> was found to interact with <GENE> FtsH1 </GENE> , a subunit of the <GENE> chloroplast FtsH protease complex </GENE> .
+<GENE> FtsH1 </GENE> can be ubiquitylated by <GENE> AtCHIP </GENE> in vitro , and the steady - state level of <GENE> FtsH1 </GENE> is reduced in AtCHIP - over - expressing plants under high - intensity light conditions , suggesting that the ubiquitylation of <GENE> FtsH1 </GENE> by <GENE> AtCHIP </GENE> might lead to the degradation of <GENE> FtsH1 </GENE> in vivo .
+Furthermore , the steady - state level of another subunit of the chloroplast <GENE> FtsH protease complex </GENE> , <GENE> FtsH2 </GENE> , is also reduced in AtCHIP - over - expressing plants under high - intensity light conditions , and <GENE> FtsH2 </GENE> interacts physically with <GENE> AtCHIP </GENE> in vivo , suggesting the possibility that <GENE> FtsH2 </GENE> is also a substrate protein for <GENE> AtCHIP </GENE> in plant cells .
+A substrate of <GENE> FtsH protease </GENE> in vivo , the <GENE> photosystem II reaction center protein D1 </GENE> , is not efficiently removed by <GENE> FtsH </GENE> in <GENE> AtCHIP </GENE> - over - expressing plants under high - intensity light conditions , supporting the assumption that <GENE> FtsH subunits </GENE> are substrates of <GENE> AtCHIP </GENE> in vivo , and that <GENE> AtCHIP </GENE> over - expression may lead to a reduced level of <GENE> FtsH </GENE> in chloroplasts .
+<GENE> AtCHIP </GENE> interacts with <GENE> cytosolic Hsp70 </GENE> and the precursors of <GENE> FtsH1 </GENE> and <GENE> FtsH2 </GENE> in the cytoplasm , and <GENE> Hsp70 </GENE> also interacts with <GENE> FtsH1 </GENE> , and these protein - protein interactions appear to be increased under high - intensity light conditions , suggesting that <GENE> Hsp70 </GENE> might be partly responsible for the increased degradation of the substrates of <GENE> Hsp70 </GENE> , such as <GENE> FtsH1 </GENE> and <GENE> FtsH2 </GENE> , in AtCHIP - over - expressing plants under high - intensity light conditions .
+Therefore , <GENE> AtCHIP </GENE> , together with <GENE> Hsp70 </GENE> , may play an important role in protein quality control in chloroplasts .
+PMID - 18372726
+<GENE> TI - Heat shock proteins </GENE> <GENE> HSP70 </GENE> and <GENE> HSP90 </GENE> in pea seedlings under clinorotation of different duration .
+AB - We have previously shown an increase in the <GENE> Hsp70 </GENE> and <GENE> Hsp90 </GENE> level in pea seedlings ( cv .
+Damir ) in response to clinorotation .
+In this work , Western - blot analysis of the <GENE> Hsp70 </GENE> and <GENE> Hsp90 </GENE> under clinorotation of different duration - - from hours to days - - was carried out with pea seedlings ( cv .
+Intensive ) with more intensive seed germination and seedling growth .
+Under clinorotation , the higher <GENE> Hsp70 </GENE> and <GENE> Hsp90 </GENE> amounts in the germinating seeds seem to be caused by some deceleration of their hydrolysis that correlated with common slowing down of seedling growth .
+Time - dependent changes in response to clinorotation were determined : some temporary increase in the Hsps level with the maximum for the Hsp70 at 2 h of clinorotation and for the Hsp90 - - at 6 h and their subsequent returning to the control level .
+PMID - 21203456
+<GENE> TI - MAPK phosphatase AP2C3 </GENE> induces ectopic proliferation of epidermal cells leading to stomata development in Arabidopsis .
+AB - In plant post - embryonic epidermis <GENE> mitogen - activated protein kinase </GENE> ( <GENE> MAPK </GENE> ) signaling promotes differentiation of pavement cells and inhibits initiation of stomata .
+Stomata are cells specialized to modulate gas exchange and water loss .
+Arabidopsis <GENE> MAPKs MPK3 </GENE> and <GENE> MPK6 </GENE> are at the core of the signaling cascade ; however , it is not well understood how the activity of these pleiotropic <GENE> MAPKs </GENE> is constrained spatially so that pavement cell differentiation is promoted only outside the stomata lineage .
+Here we identified a <GENE> PP2C - type phosphatase </GENE> termed <GENE> AP2C3 </GENE> ( <GENE> Arabidopsis protein phosphatase 2C </GENE> ) that is expressed distinctively during stomata development as well as interacts and inactivates <GENE> MPK3 </GENE> , <GENE> MPK4 </GENE> and <GENE> MPK6 </GENE> .
+<GENE> AP2C3 co - localizes </GENE> with <GENE> MAPKs </GENE> within the nucleus and this localization depends on its N - terminal extension .
+We show that other closely related phosphatases <GENE> AP2C2 </GENE> and <GENE> AP2C4 </GENE> are also <GENE> MAPK </GENE> phosphatases acting on <GENE> MPK6 </GENE> , but have a distinct expression pattern from AP2C3 .
+In accordance with this , only <GENE> AP2C3 </GENE> ectopic expression is able to stimulate cell proliferation leading to excess stomata development .
+This function of <GENE> AP2C3 </GENE> relies on the domains required for <GENE> MAPK </GENE> docking and intracellular localization .
+Concomitantly , the constitutive and inducible <GENE> AP2C3 </GENE> expression deregulates <GENE> E2F </GENE> - <GENE> RB </GENE> pathway , promotes the abundance and activity of <GENE> CDKA </GENE> , as well as changes of <GENE> CDKB1 </GENE> ; 1 forms .
+We suggest that <GENE> AP2C3 </GENE> downregulates the <GENE> MAPK </GENE> signaling activity to help maintain the balance between differentiation of stomata and pavement cells .
+PMID - 15803414
+TI - The Arabidopsis KLUNKER gene controls cell shape changes and encodes the <GENE> AtSRA1 homolog </GENE> .
+AB - The analysis of a group of seven trichome mutants in Arabidopsis , which all show distorted trichomes along with severe <GENE> actin </GENE> defects has revealed insight into the role of the <GENE> actin </GENE> cytoskeleton in cell shape control .
+Four of the corresponding genes encode components of a protein complex , the <GENE> ARP2 / 3 complex </GENE> that stimulates the production of ' fine <GENE> actin </GENE> ' at active growth sites .
+In this study , we show that another member of the distorted group , <GENE> KLUNKER </GENE> ( <GENE> KLK </GENE> ) , encodes the <GENE> AtSRA1 homolog </GENE> of Arabidopsis and that <GENE> klk mutants </GENE> show a similar range of cell shape defects to those of <GENE> arp2 / 3 mutants </GENE> .
+In animals , <GENE> SRA1 </GENE> regulates the activity of the <GENE> ARP2 / 3 - regulating WAVE </GENE> - <GENE> HSPC300 </GENE> complex in a <GENE> Rho </GENE> - dependent manner .
+Our findings provide evidence that a <GENE> Rho </GENE> / <GENE> ARP2 </GENE> / 3 regulation pathway exists in plants .
+PMID - 17114271
+<GENE> TI - Tobacco isoenzyme 1 </GENE> of <GENE> NAD ( H ) - dependent glutamate dehydrogenase </GENE> catabolizes glutamate in vivo .
+<GENE> AB - Glutamate ( Glu ) dehydrogenase </GENE> ( <GENE> GDH </GENE> , <GENE> EC 1 . 4 . 1 . 2 - 1 . 4 . 1 . 4 </GENE> ) catalyzes in vitro the reversible amination of 2 - oxoglutarate to Glu .
+The in vivo direction ( s ) of the <GENE> GDH </GENE> reaction in higher plants and hence the role ( s ) of this enzyme is unclear , a situation confounded by the existence of isoenzymes comprised totally of either <GENE> GDH beta - ( isoenzyme 1 ) or alpha - ( isoenzyme 7 ) subunits </GENE> , as well as another five alpha - beta isoenzyme permutations .
+To clarify the in vivo direction of the reaction catalyzed by <GENE> GDH isoenzyme 1 </GENE> , [ ( 15 ) N ] Glu was supplied to roots of two independent transgenic tobacco ( Nicotiana tabacum ) lines with increased isoenzyme 1 levels ( <GENE> S4 - H </GENE> and <GENE> S49 - H </GENE> ) .
+The [ ( 15 ) N ] ammonium ( NH ( 4 ) ( + ) ) accumulation rate in these lines was elevated approximately 65 % compared with a null segregant control line , indicating that isoenzyme 1 catabolizes Glu in roots .
+<GENE> Leaf glutamine synthetase </GENE> ( <GENE> GS </GENE> ) was inhibited with a GS - specific herbicide to quantify any contribution by GDH toward photorespiratory NH ( 4 ) ( + ) reassimilation .
+Transgenic line S49 - H did not show enhanced resistance to the herbicide , indicating that the large pool of <GENE> isoenzyme 1 </GENE> in <GENE> S49 - H </GENE> leaves was unable to compensate for GS and suggesting that isoenzyme 1 does not assimilate NH ( 4 ) ( + ) in vivo .
+PMID - 17114357
+TI - A constitutive shade - avoidance mutant implicates <GENE> TIR - NBS - LRR proteins </GENE> in Arabidopsis photomorphogenic development .
+AB - In plants , light signals caused by the presence of neighbors accelerate stem growth and flowering and induce a more erect position of the leaves , a developmental strategy known as shade - avoidance syndrome .
+In addition , mutations in the photoreceptors that mediate shade - avoidance responses enhance disease susceptibility in Arabidopsis thaliana .
+Here , we describe the Arabidopsis constitutive shade - <GENE> avoidance1 </GENE> ( <GENE> csa1 </GENE> ) mutant , which shows a shade - avoidance phenotype in the absence of shade and enhanced growth of a bacterial pathogen .
+The <GENE> csa1 mutant </GENE> has a T - DNA inserted within the second exon of a LONGTOKEN gene , which leads to the production of a truncated mRNA .
+Arabidopsis plants transformed with the truncated <GENE> TIR - NBS - LRR gene </GENE> recapitulate the mutant phenotype , indicating that <GENE> csa1 </GENE> is a dominant - negative mutation that interferes with <GENE> phytochrome </GENE> signaling .
+<GENE> TIR - NBS - LRR proteins </GENE> have been implicated in defense responses in plants .
+<GENE> RPS4 </GENE> , the closest homolog of <GENE> CSA1 </GENE> , confers resistance to Pseudomonas syringae and complements the <GENE> csa1 mutant </GENE> phenotype , indicating that responses to pathogens and neighbors share core - signaling components in Arabidopsis .
+In Drosophila melanogaster and Caenorhabditis elegans , <GENE> TIR domain proteins </GENE> are implicated in both development and immunity .
+Thus , the dual role of the <GENE> TIR domain </GENE> is conserved across kingdoms .
+PMID - 17923451
+TI - Isolation and characterization of the <GENE> cytochrome P450 gene CYP82E5v2 </GENE> that mediates nicotine to nornicotine conversion in the green leaves of tobacco .
+AB - In the species of genus Nicotiana , nicotine to nornicotine conversion is mediated by closely related <GENE> nicotine N - demethylase </GENE> ( <GENE> NND </GENE> ) proteins that are encoded by the <GENE> CYP82E subfamily of cytochrome P450 genes </GENE> .
+The diverse number and transcriptional regulation of the NND genes have created large variations in the time and rate of nornicotine production in various Nicotiana species .
+In tobacco , previous studies have identified the senescence - inducible <GENE> CYP82E4 gene </GENE> as an important factor controlling nicotine conversion .
+Nornicotine is an undesirable alkaloid in tobacco , because it serves as a precursor for N ' - nitrosonornicotine , a potent carcinogen in laboratory animals .
+The objective of this study was to investigate the possible catalytic roles of additional NND genes in shaping the alkaloid profile of tobacco .
+A PCR - based strategy using primers complementary to conserved regions of <GENE> CYP82E genes </GENE> yielded a cDNA , designated <GENE> CYP82E5v2 </GENE> , which conferred NND activity in heterologous expression studies using yeast as a host .
+PCR amplification of CYP82E5v2 orthologs revealed that of the two progenitor species of tobacco , CYP82E5v2 was donated by the N . tomentosiformis parent .
+A comparison of <GENE> CYP82E4 </GENE> and <GENE> CYP82E5v2 </GENE> expression using qualitative real - time PCR analysis demonstrated that the transcription of <GENE> CYP82E5v2 </GENE> was higher in the green leaves of all tobacco genotypes tested , while the expression of <GENE> CYP82E4 </GENE> dominated in the senescing leaves of converter tobacco .
+These results suggest that differentially regulated NND genes regulate nornicotine production in the green and senescing leaves of tobacco and provide tools to reduce nornicotine levels in tobacco leaves .
+PMID - 23271982
+TI - Wheat TILLING mutants show that the vernalization gene <GENE> VRN1 </GENE> down - regulates the flowering repressor <GENE> VRN2 </GENE> in leaves but is not essential for flowering .
+AB - Most of the natural variation in wheat vernalization response is determined by allelic differences in the <GENE> MADS - box transcription factor VERNALIZATION1 </GENE> ( <GENE> VRN1 </GENE> ) .
+Extended exposures to low temperatures during the winter ( vernalization ) induce <GENE> VRN1 </GENE> expression and promote the transition of the apical meristem to the reproductive phase .
+In contrast to its Arabidopsis homolog ( <GENE> APETALA1 </GENE> ) , which is mainly expressed in the apical meristem , <GENE> VRN1 </GENE> is also expressed at high levels in the leaves , but its function in this tissue is not well understood .
+Using tetraploid wheat lines with truncation mutations in the two homoeologous copies of <GENE> VRN1 </GENE> ( henceforth <GENE> vrn1 - null mutants </GENE> ) , we demonstrate that a central role of <GENE> VRN1 </GENE> in the leaves is to maintain low transcript levels of the VRN2 flowering repressor after vernalization .
+Transcript levels of <GENE> VRN2 </GENE> were gradually down - regulated during vernalization in both mutant and wild - type genotypes , but were up - regulated after vernalization only in the <GENE> vrn1 - null mutants </GENE> .
+The up - regulation of VRN2 delayed flowering by repressing the transcription of FT , a flowering - integrator gene that encodes a mobile protein that is transported from the leaves to the apical meristem to induce flowering .
+The role of <GENE> VRN2 </GENE> in the delayed flowering of the <GENE> vrn1 - null mutant </GENE> was confirmed using <GENE> double vrn1 - vrn2 - null mutants </GENE> , which flowered two months earlier than the <GENE> vrn1 - null mutants </GENE> .
+Both mutants produced normal flowers and seeds demonstrating that <GENE> VRN1 </GENE> is not essential for wheat flowering , which contradicts current flowering models .
+This result does not diminish the importance of <GENE> VRN1 </GENE> in the seasonal regulation of wheat flowering .
+The up - regulation of <GENE> VRN1 </GENE> during winter is required to maintain low transcript levels of <GENE> VRN2 </GENE> , accelerate the induction of FT in the leaves , and regulate a timely flowering in the spring .
+Our results also demonstrate the existence of redundant wheat flowering genes that may provide new targets for engineering wheat varieties better adapted to changing environments .
+PMIDEND
+PMID - 12481085
+TI - Molecular characterization of an Arabidopsis <GENE> acyl - coenzyme a synthetase </GENE> localized on glyoxysomal membranes .
+AB - In higher plants , fat - storing seeds utilize storage lipids as a source of energy during germination .
+To enter the beta - oxidation pathway , fatty acids need to be activated to acyl - coenzyme As ( CoAs ) by the enzyme <GENE> acyl - CoA synthetase </GENE> ( <GENE> ACS </GENE> ; <GENE> EC 6 . 2 . 1 . 3 </GENE> ) .
+Here , we report the characterization of an Arabidopsis cDNA clone encoding for a <GENE> glyoxysomal acyl - CoA synthetase </GENE> designated <GENE> AtLACS6 </GENE> .
+The cDNA sequence is 2 , 106 bp long and it encodes a polypeptide of 701 amino acids with a calculated molecular mass of 76 , 617 D .
+Analysis of the amino - terminal sequence indicates that <GENE> acyl - CoA synthetase </GENE> is synthesized as a larger precursor containing a cleavable amino - terminal presequence so that the mature polypeptide size is 663 amino acids .
+The presequence shows high similarity to the typical <GENE> PTS2 </GENE> ( peroxisomal targeting signal 2 ) .
+The <GENE> AtLACS6 </GENE> also shows high amino acid identity to prokaryotic and eukaryotic fatty <GENE> acyl - CoA synthetases </GENE> .
+Immunocytochemical and cell fractionation analyses indicated that the <GENE> AtLACS6 </GENE> is localized on glyoxysomal membranes .
+<GENE> AtLACS6 </GENE> was overexpressed in insect cells and purified to near homogeneity .
+The purified enzyme is particularly active on long - chain fatty acids ( C16 : 0 ) .
+Results from immunoblot analysis revealed that the expression of both AtLACS6 and beta - oxidation enzymes coincide with fatty acid degradation .
+These data suggested that <GENE> AtLACS6 </GENE> might play a regulatory role both in fatty acid import into glyoxysomes by making a complex with other factors , e . g .
+<GENE> PMP70 </GENE> , and in fatty acid beta - oxidation activating the fatty acids .
+PMID - 15821993
+TI - Functional and regulatory analysis of the Arabidopsis thaliana CAX2 cation transporter .
+AB - The vacuolar sequestration of metals is an important metal tolerance mechanism in plants .
+The Arabidopsis thaliana vacuolar transporters <GENE> CAX1 </GENE> and <GENE> CAX2 </GENE> were originally identified in a Saccharomyces cerevisiae suppression screen as Ca2 + / H + antiporters .
+<GENE> CAX2 </GENE> has a low affinity for Ca2 + but can transport other metals including Mn2 + and Cd2 + .
+Here we demonstrate that unlike <GENE> cax1 mutants </GENE> , <GENE> CAX2 </GENE> insertional mutants caused no discernable morphological phenotypes or alterations in Ca2 + / H + antiport activity .
+However , <GENE> cax2 </GENE> lines exhibited a reduction in vacuolar Mn2 + / H + antiport and , like <GENE> cax1 mutants </GENE> , reduced <GENE> V - type H + - ATPase ( V - ATPase </GENE> ) activity .
+Analysis of a <GENE> CAX2 promoter beta - glucoronidase </GENE> ( <GENE> GUS </GENE> ) reporter gene fusion confirmed that <GENE> CAX2 </GENE> was expressed throughout the plant and strongly expressed in flower tissue , vascular tissue and in the apical meristem of young plants .
+Heterologous expression in yeast identified an N - terminal regulatory region in <GENE> CAX2 </GENE> , suggesting that Arabidopsis contains multiple cation / H + antiporters with shared regulatory features .
+Furthermore , despite significant variations in morphological and biochemical phenotypes , <GENE> cax1 </GENE> and <GENE> cax2 </GENE> lines both significantly alter <GENE> V - ATPase </GENE> activity , hinting at coordinate regulation among transporters driven by H + gradients and the <GENE> V - ATPase </GENE> .
+PMID - 17923671
+TI - Plant <GENE> nuclear factor Y </GENE> ( <GENE> NF - Y ) B subunits </GENE> confer drought tolerance and lead to improved corn yields on water - limited acres .
+AB - Commercially improved crop performance under drought conditions has been challenging because of the complexity of the trait and the multitude of factors that influence yield .
+Here we report the results of a functional genomics approach that identified a transcription factor from the <GENE> nuclear factor Y </GENE> ( <GENE> NF - Y </GENE> ) family , <GENE> AtNF - YB1 </GENE> , which acts through a previously undescribed mechanism to confer improved performance in Arabidopsis under drought conditions .
+An orthologous <GENE> maize transcription factor </GENE> , <GENE> ZmNF - YB2 </GENE> , is shown to have an equivalent activity .
+Under water - limited conditions , transgenic maize plants with increased <GENE> ZmNF - YB2 </GENE> expression show tolerance to drought based on the responses of a number of stress - related parameters , including chlorophyll content , stomatal conductance , leaf temperature , reduced wilting , and maintenance of photosynthesis .
+These stress adaptations contribute to a grain yield advantage to maize under water - limited environments .
+The application of this technology has the potential to significantly impact maize production systems that experience drought .
+PMID - 18998412
+TI - Expression of <GENE> chlorophyllase </GENE> is not induced during autumnal yellowing in Ginkgo biloba .
+AB - Autumnal tints are one of the most fascinating natural phenomena , but the molecular mechanism of chlorophyll ( Chl - ) degradation in deciduous trees has not been fully understood .
+In this study , from the leaves of Ginkgo biloba , <GENE> chlorophyllase - homologous GbCLH </GENE> was cloned by RT - PCR with degenerated primers .
+The expression of <GENE> GbCLH </GENE> in different yellowing stages was analyzed by Northern hybridization .
+The expression level of <GENE> GbCLH </GENE> was highest in green leaves and significantly declined during the process of leaf yellowing .
+These results suggested that <GENE> GbCLH </GENE> should be involved in chlorophyll - homeostasis in Ginkgo biloba .
+PMID - 21203492
+TI - MOS11 : a new component in the mRNA export pathway .
+AB - Nucleocytoplasmic trafficking is emerging as an important aspect of plant immunity .
+The three related pathways affecting plant immunity include Nuclear Localization Signal ( NLS ) - mediated nuclear protein import , Nuclear Export Signal ( NES ) - dependent nuclear protein export , and mRNA export relying on <GENE> MOS3 </GENE> , a nucleoporin belonging to the <GENE> Nup107 - 160 complex </GENE> .
+Here we report the characterization , identification , and detailed analysis of Arabidopsis modifier of snc1 , 11 ( mos11 ) .
+Mutations in MOS11 can partially suppress the dwarfism and enhanced disease resistance phenotypes of <GENE> snc1 </GENE> , which carries a gain - of - function mutation in a <GENE> TIR - NB - LRR type Resistance gene </GENE> .
+<GENE> MOS11 </GENE> encodes a conserved eukaryotic protein with homology to the <GENE> human RNA binding protein CIP29 </GENE> .
+Further functional analysis shows that <GENE> MOS11 </GENE> localizes to the nucleus and that the <GENE> mos11 mutants </GENE> accumulate more poly ( A ) mRNAs in the nucleus , likely resulting from reduced mRNA export activity .
+Epistasis analysis between <GENE> mos3 - 1 </GENE> and <GENE> mos11 - 1 </GENE> revealed that <GENE> MOS11 </GENE> probably functions in the same mRNA export pathway as <GENE> MOS3 </GENE> , in a partially overlapping fashion , before the mRNA molecules pass through the nuclear pores .
+Taken together , <GENE> MOS11 </GENE> is identified as a new protein contributing to the transfer of mature mRNA from the nucleus to the cytosol .
+PMID - 11095727
+TI - Identification of the residues in the <GENE> Myb </GENE> domain of maize <GENE> C1 </GENE> that specify the interaction with the <GENE> bHLH cofactor R </GENE> .
+AB - The maize <GENE> Myb transcription factor C1 </GENE> depends on the basic helix - loop - helix ( bHLH ) proteins R or B for regulatory function , but the closely related <GENE> Myb protein P </GENE> does not .
+We have used the similarity between the <GENE> Myb domains </GENE> of <GENE> C1 </GENE> and P to identify residues that specify the interaction between the <GENE> Myb domain </GENE> of <GENE> C1 </GENE> and the N - terminal region of R .
+Substitution of four predicted solvent - exposed residues in the first helix of the second Myb repeat of P with corresponding residues from C1 is sufficient to confer on P the ability to physically interact with R .
+However , two additional <GENE> Myb domain amino acid changes </GENE> are needed to make the P regulatory activity partially dependent on <GENE> R </GENE> in maize cells .
+Interestingly , when P is altered so that it interacts with <GENE> R </GENE> , it can activate the <GENE> Bz1 promoter </GENE> , normally regulated by C1 + R but not by P .
+Together , these findings demonstrate that the change of a few amino acids within highly similar <GENE> Myb </GENE> domains can mediate differential interactions with a transcriptional coregulator that plays a central role in the regulatory specificity of <GENE> C1 </GENE> , and that <GENE> Myb </GENE> domains play important roles in combinatorial transcriptional regulation .
+PMID - 16483133
+TI - AtHsfA2 modulates expression of stress responsive genes and enhances tolerance to heat and oxidative stress in Arabidopsis .
+AB - There is increasing evidence for considerable interlinking between the responses to heat stress and oxidative stress , and recent researches suggest heat shock transcription factors ( Hsfs ) play an important role in linking heat shock with oxidative stress signals .
+In this paper , we present evidence that <GENE> AtHsfA2 </GENE> modulated expression of stress responsive genes and enhanced tolerance to heat and oxidative stress in Arabidopsis .
+Using Northern blot and quantitative RT - PCR analysis , we demonstrated that the expression of <GENE> AtHsfA2 </GENE> was induced by not only HS but also oxidative stress .
+By functional analysis of AtHsfA2 knockout mutants and <GENE> AtHsfA2 </GENE> overexpressing transgenic plants , we also demonstrated that the mutants displayed reduced the basal and acquired thermotolerance as well as oxidative stress tolerance but the overexpression lines displayed increased tolerance to these stress .
+The phenotypes correlated with the expression of some <GENE> Hsps </GENE> and <GENE> APX1 </GENE> , ion leakage , H202 level and degree of oxidative injuries .
+These results showed that , by modulated expression of stress responsive genes , <GENE> AtHsfA2 </GENE> enhanced tolerance to heat and oxidative stress in Arabidopsis .
+So we suggest that <GENE> AtHsfA2 </GENE> plays an important role in linking heat shock with oxidative stress signals .
+PMID - 16949959
+TI - Cloning and expression analysis of two <GENE> beta - 1 </GENE> , <GENE> 3 - glucanase genes </GENE> from strawberry .
+AB - We isolated from strawberry ( Fragariae x ananassa Duch ) a genomic clone of a <GENE> beta - 1 </GENE> , <GENE> 3 - glucanase gene </GENE> , designated as <GENE> FaBG2 - 2 </GENE> .
+In addition , a related cDNA clone , designated as <GENE> FaBG2 - 3 </GENE> , was also isolated .
+<GENE> FaBG2 - 2 </GENE> and <GENE> FaBG2 - 3 </GENE> are similar in their coding regions , except that <GENE> FaBG2 - 2 </GENE> does not appear to contain a signal peptide coding sequence .
+The 5 ' and 3 ' flanking regions of <GENE> FaBG2 - 2 </GENE> and <GENE> FaBG2 - 3 </GENE> are differentt .
+Using real - time PCR , the expression patterns of <GENE> FaBG2 - 3 </GENE> and a previously isolated <GENE> beta - 1 </GENE> , <GENE> 3 - glucanase gene </GENE> , <GENE> FaBG2 - 1 </GENE> , in strawberry plants infected with Colletotrichum fragariae or Colletotrichum acutatum were analyzed at different time points post - infection .
+The results showed that expressions of both genes in the leaves of infected plants were induced by the two fungi , but the level of induction was several fold greater with C . fragariae .
+Comparison of the expression levels of the two genes revealed that the level of <GENE> FaBG2 - 3 </GENE> expression was several hundred to over a thousand fold higher than that of <GENE> FaBG2 - 1 </GENE> .
+Furthermore , the expression levels of the two genes in the leaf , fruit , crown and root of uninfected strawberry plants were analyzed .
+PMID - 17988226
+TI - Correct targeting of plant <GENE> ARF GTPases </GENE> relies on distinct protein domains .
+AB - Indispensable membrane trafficking events depend on the activity of <GENE> conserved small guanosine triphosphatases </GENE> ( <GENE> GTPases </GENE> ) , anchored to individual organelle membranes .
+In plant cells , it is currently unknown how these proteins reach their correct target membranes and interact with their effectors .
+To address these important biological questions , we studied two members of the <GENE> ADP ribosylation factor </GENE> ( <GENE> ARF </GENE> ) <GENE> GTPase family </GENE> , <GENE> ARF1 </GENE> and <GENE> ARFB </GENE> , which are membrane anchored through the same N - terminal myristoyl group but to different target membranes .
+Specifically , we investigated how <GENE> ARF1 </GENE> is targeted to the Golgi and post - Golgi structures , whereas ARFB accumulates at the plasma membrane .
+While the subcellular localization of <GENE> ARFB </GENE> appears to depend on multiple domains including the C - terminal half of the <GENE> GTPase </GENE> , the correct targeting of <GENE> ARF1 </GENE> is dependent on two domains : an N - terminal <GENE> ARF1 </GENE> domain that is necessary for the targeting of the <GENE> GTPase </GENE> to membranes and a core domain carrying a conserved MxxE motif that influences the relative distribution of <GENE> ARF1 </GENE> between the Golgi and post - Golgi compartments .
+We also established that the N - terminal <GENE> ARF1 </GENE> domain alone was insufficient to maintain an interaction with membranes and that correct targeting is a protein - specific property that depends on the status of the GTP switch .
+Finally , an <GENE> ARF1 - ARFB chimera </GENE> containing only the first 18 amino acids from <GENE> ARF1 </GENE> was shown to compete with <GENE> ARF1 membrane binding loci </GENE> .
+Although this chimera exhibited <GENE> GTPase </GENE> activity in vitro , it was unable to recruit coatomer , a known <GENE> ARF1 </GENE> effector , onto Golgi membranes .
+Our results suggest that the targeting of <GENE> ARF GTPases </GENE> to the correct membranes may not only depend on interactions with effectors but also relies on distinct protein domains and further binding partners on the Golgi surface .
+PMID - 17989085
+TI - An <GENE> ABC transporter gene </GENE> of Arabidopsis thaliana , AtWBC11 , is involved in cuticle development and prevention of organ fusion .
+AB - Cuticle , including wax and <GENE> cutin </GENE> , is the barrier covering plant aerial organs and protecting the inner tissues .
+The Arabidopsis thaliana ATP - binding <GENE> cassette ( ABC ) transporter CER5 </GENE> ( <GENE> AtWBC12 </GENE> ) has been identified as a wax exporter .
+In agreement with the latest report of another wax exporter , AtWBC11 , here we show that <GENE> atwbc11 mutants </GENE> displayed organ fusions and stunted growth , and became vulnerable to chlorophyll leaching and toluidine blue staining .
+Chemical analysis showed that <GENE> wax </GENE> and <GENE> cutin monomers </GENE> were both reduced in the <GENE> atwbc11 mutant </GENE> .
+AtWBC11 was widely expressed in aerial organs .
+Interestingly , we found that the expression was light dependent , and the phytohormone ABA up - regulated <GENE> AtWBC11 </GENE> expression .
+We also found that while the <GENE> AtWBC11 promoter </GENE> had a broad pattern of activity , the expression was converted to epidermis specific when the reporter gene was fused to <GENE> AtWBC11 cDNA </GENE> .
+Furthermore , RNA blot analysis supported epidermis - specific expression of <GENE> AtWBC11 </GENE> .
+Our results support that <GENE> AtWBC11 </GENE> is involved in cuticle development .
+PMID - 15863096
+TI - The transient complex of poplar plastocyanin with <GENE> cytochrome f </GENE> : effects of ionic strength and pH .
+AB - The orientation of <GENE> poplar plastocyanin </GENE> in the complex with <GENE> turnip cytochrome f </GENE> has been determined by rigid - body calculations using restraints from paramagnetic NMR measurements .
+The results show that <GENE> poplar plastocyanin </GENE> interacts with <GENE> cytochrome f </GENE> with the hydrophobic patch of plastocyanin close to the heme region on <GENE> cytochrome f </GENE> and via electrostatic interactions between the charged patches on both proteins .
+<GENE> Plastocyanin </GENE> is tilted relative to the orientation reported for spinach plastocyanin , resulting in a longer distance between iron and copper ( 13 . 9 A ) .
+With increasing ionic strength , from 0 . 01 to 0 . 11 M , all observed chemical - shift changes decrease uniformly , supporting the idea that electrostatic forces contribute to complex formation .
+There is no indication for a rearrangement of the transient complex in this ionic strength range , contrary to what had been proposed earlier on the basis of kinetic data .
+By decreasing the pH from pH 7 . 7 to pH 5 . 5 , the complex is destabilized .
+This may be attributed to the protonation of the conserved acidic patches or the copper ligand <GENE> His87 </GENE> in <GENE> poplar plastocyanin </GENE> , which are shown to have similar pK ( a ) values .
+The results are interpreted in a two - step model for complex formation .
+PMID - 17020806
+<GENE> TI - RNA polymerase II gene </GENE> ( <GENE> RPB2 </GENE> ) encoding the second largest protein subunit in Phaeosphaeria nodorum and P . avenaria .
+AB - A 5586 bp sequence ( accession no .
+DQ278491 ) , which includes the <GENE> RNA polymerase II gene </GENE> ( <GENE> RPB2 </GENE> ) encoding the second largest protein subunit ( <GENE> RPB2 </GENE> ) , was obtained from the wheat biotype Phaeosphaeria nodorum ( PN - w ) by PCR amplification .
+The 3841 bp full length <GENE> RPB2 gene </GENE> contains two exons and a 52 bp intron , and encodes a complete 1262 amino acid protein .
+Similar to the C - terminals of the beta subunits of prokaryotes and <GENE> yeast RNA polymerases </GENE> , the deduced <GENE> RPB2 protein </GENE> contained many structural features needed for gene transcription .
+Based on the phylogenetic analysis with the deduced <GENE> RPB2 polypeptide sequences </GENE> , the PN - w was closely related to the maize pathogen Cochliobolus heterostrophus .
+Size differences were found in the full length <GENE> RPB2 </GENE> gene of cereal Phaeosphaeria species , mainly due to differences in intron size .
+No nucleotide substitutions were found in homothallic P . avenaria f . sp . triticea ( Pat1 ) and barley biotype P . nodorum ( PN - b ) isolates used in this study .
+The nucleotide and deduced amino acid sequences of the <GENE> RPB2 gene </GENE> in <GENE> Pat1 </GENE> were closely related to that in PN - w .
+PMID - 18037378
+<GENE> TI - A </GENE> novel <GENE> ferritin gene </GENE> , <GENE> SferH - 5 </GENE> , reveals heterogeneity of the 26 . 5 - kDa subunit of soybean ( Glycine max ) seed <GENE> ferritin </GENE> .
+<GENE> AB - A </GENE> novel <GENE> ferritin cDNA </GENE> , <GENE> SferH - 5 </GENE> , has been cloned from 7 - day - old soybean seedlings .
+Putative <GENE> SferH - 5 </GENE> has 96 % identity with <GENE> SferH - 1 </GENE> reported previously .
+All the five amino acid variants distributed in the mature region are not involved in highly conserved residues associated with <GENE> ferroxidase </GENE> activity center .
+We speculate that <GENE> SferH - 5 </GENE> encodes a novel 26 . 5 - kDa subunit of soybean seed <GENE> ferritin </GENE> , which is designated <GENE> H - 5 </GENE> in this study .
+<GENE> Recombinant H - 5 </GENE> was able to assemble , together with co - expressed <GENE> H - 2 </GENE> , as a functional soybean seed <GENE> ferritin </GENE> - like complex , H - 5 / H - 2 .
+Our data reveal the potential heterogeneity of the 26 . 5 - kDa subunit of soybean seed ferritin .
+PMID - 21143674
+TI - Arabidopsis <GENE> Qa - SNARE SYP2 proteins </GENE> localized to different subcellular regions function redundantly in vacuolar protein sorting and plant development .
+<GENE> AB - SYP2 proteins </GENE> are a sub - family of LONGTOKEN that may be responsible for protein trafficking between pre - vacuolar compartments ( PVC ) and vacuoles .
+Arabidopsis thaliana <GENE> SYP22 </GENE> / <GENE> VAM3 </GENE> / <GENE> SGR3 </GENE> and <GENE> SYP21 </GENE> / <GENE> PEP12 </GENE> proteins function independently , but are both reported to be essential for male gametophytic viability .
+Here , we systematically examined the redundancy of three <GENE> SYP2 </GENE> paralogs ( i . e .
+SYP21 , 22 and 23 ) using a <GENE> Col - 0 </GENE> ecotype harboring a SYP2 paralog ( <GENE> SYP23 </GENE> / <GENE> PLP </GENE> ) that lacked a transmembrane domain .
+Surprisingly , no visible phenotypes were observed , even in the double knockout <GENE> syp21 </GENE> / <GENE> pep12 </GENE> <GENE> syp23 </GENE> / <GENE> plp </GENE> .
+Deficiency of either <GENE> SYP21 </GENE> / <GENE> PEP12 </GENE> or <GENE> SYP23 </GENE> / <GENE> PLP </GENE> in the syp22 background resulted in a defect in vacuolar protein sorting , characterized by abnormal accumulation of protein precursors in seeds .
+<GENE> SYP21 </GENE> / <GENE> PEP12 </GENE> knockdown enhanced the <GENE> syp22 phenotype </GENE> ( i . e . semi - dwarfism , poor leaf vein development and abnormal development of myrosin cells ) , and additional knockout of <GENE> SYP23 </GENE> / <GENE> PLP </GENE> further aggravated the phenotype .
+A <GENE> GFP </GENE> - <GENE> SYP23 </GENE> / <GENE> PLP </GENE> fusion localized to the cytosol , but not to the PVC or vacuolar membrane , where <GENE> SYP21 </GENE> / <GENE> PEP12 </GENE> or <GENE> SYP22 </GENE> / <GENE> VAM3 </GENE> , respectively , were localized .
+Immunoprecipitation analysis showed that <GENE> SYP23 </GENE> / <GENE> PLP </GENE> interacted with the vacuolar Qb - and <GENE> Qc - SNAREs </GENE> , <GENE> VTI11 </GENE> and <GENE> SYP5 </GENE> , respectively , suggesting that <GENE> SYP23 </GENE> / <GENE> PLP </GENE> is able to form a SNARE complex anchoring the membrane .
+Unexpectedly , we found that expression of multiple copies of a genomic fragment of <GENE> SYP23 </GENE> / <GENE> PLP </GENE> suppressed the abnormal <GENE> syp22 - 3 </GENE> phenotype .
+Thus , <GENE> SYP2 proteins </GENE> , including cytosolic <GENE> SYP23 </GENE> / <GENE> PLP </GENE> , appear to function redundantly in vacuolar trafficking and plant development .
+PMID - 21150289
+TI - SUMO - , <GENE> MAPK </GENE> - , and resistance protein - signaling converge at transcription complexes that regulate plant innate immunity .
+AB - Upon pathogen perception plant innate immune receptors activate various signaling pathways that trigger host defenses .
+PAMP - triggered defense signaling requires <GENE> mitogen - activated protein kinase </GENE> ( <GENE> MAPK </GENE> ) pathways , which modulate the activity of transcription factors through phosphorylation .
+Here , we highlight that the same transcription factors are also targets for conjugation by <GENE> SUMO ( Small ubiquitin - like modifier </GENE> ) .
+SUMO conjugation determines recruitment and activity of chromatin - modifying enzymes , and thereby indirectly controls gene expression .
+<GENE> SUMO </GENE> conjugation is essential to suppress defense signaling in non - infected plants .
+Resistance protein signaling and <GENE> SUMO </GENE> conjugation also converge at transcription complexes .
+For example , the <GENE> TIR - NB </GENE> - <GENE> LRR </GENE> protein <GENE> SNC1 </GENE> interacts with <GENE> histone deacetylase HDA19 </GENE> and the transcriptional co - repressor <GENE> Topless - related 1 </GENE> ; both are SUMO targets .
+We present a model in which SUMO conjugation can transform transcription activators into repressors , thereby preventing defense induction in the absence of a pathogen .
+PMID - 11148291
+<GENE> TI </GENE> - <GENE> Hd1 </GENE> , a major photoperiod sensitivity quantitative trait locus in rice , is closely related to the Arabidopsis flowering time gene CONSTANS .
+AB - A major quantitative trait locus ( QTL ) controlling response to photoperiod , <GENE> Hd1 </GENE> , was identified by means of a map - based cloning strategy .
+High - resolution mapping using 1505 segregants enabled us to define a genomic region of approximately 12 kb as a candidate for <GENE> Hd1 </GENE> .
+Further analysis revealed that the <GENE> Hd1 QTL </GENE> corresponds to a gene that is a homolog of CONSTANS in Arabidopsis .
+Sequencing analysis revealed a 43 - bp deletion in the first exon of the <GENE> photoperiod sensitivity 1 </GENE> ( <GENE> se1 </GENE> ) mutant HS66 and a 433 - bp insertion in the intron in mutant HS110 .
+<GENE> Se1 </GENE> is allelic to the <GENE> Hd1 QTL </GENE> , as determined by analysis of two <GENE> se1 mutants </GENE> , <GENE> HS66 </GENE> and <GENE> HS110 </GENE> .
+Genetic complementation analysis proved the function of the candidate gene .
+The amount of <GENE> Hd1 mRNA </GENE> was not greatly affected by a change in length of the photoperiod .
+We suggest that <GENE> Hd1 </GENE> functions in the promotion of heading under short - day conditions and in inhibition under long - day conditions .
+PMID - 12481089
+TI - Cloning and expression of the gene for <GENE> soybean hydroxyisourate hydrolase </GENE> .
+Localization and implications for function and mechanism .
+AB - The gene encoding <GENE> hydroxyisourate hydrolase </GENE> , a novel ureide - metabolizing enzyme , has been cloned from soybean ( Glycine max ) .
+The gene encodes a protein that is 560 amino acids in length and contains a 31 - amino acid signal sequence at the N terminus that is not present in the mature protein .
+The presence of two SKL motifs near the C terminus suggests that the protein resides in the peroxisome .
+This expectation is borne out by results from immunogold electron microscopy , which revealed that <GENE> hydroxyisourate hydrolase </GENE> was localized in the peroxisomes of uninfected root nodules .
+The gene encoding <GENE> hydroxyisourate hydrolase </GENE> was expressed in Escherichia coli , and soluble , catalytically active enzyme was purified to homogeneity .
+Sequence analysis revealed considerable homology with members of the <GENE> beta - glucosidase family </GENE> of enzymes .
+Two glutamate residues , <GENE> E199 </GENE> and <GENE> E408 </GENE> , align with the conserved glutamates that play catalytic roles in the <GENE> beta - glucosidases </GENE> .
+However , the other residues that have been identified by crystallography to interact directly with the substrates in <GENE> beta - glucosidases </GENE> are not conserved in hydroxyisourate hydrolase .
+The <GENE> E199A </GENE> and <GENE> E408A hydroxyisourate hydrolase mutants </GENE> were devoid of detectable catalytic activity .
+Analysis of transcripts for <GENE> hydroxyisourate hydrolase </GENE> demonstrated that its level of expression was highest in the nodule ; mRNA was detectable 12 d after infection and increased until 21 d postinfection , then declined .
+In a similar manner , immunodetection of <GENE> hydroxyisourate hydrolase </GENE> indicated preferential localization in the nodule ; the amount of protein detected was maximal at 21 d postinfection .
+The pattern of expression of <GENE> hydroxyisourate hydrolase </GENE> matched that of <GENE> urate oxidase </GENE> , and supports the hypothesis that <GENE> hydroxyisourate hydrolase </GENE> plays a role in ureide metabolism .
+PMID - 12499372
+TI - The alpha - helical D1 domain of the <GENE> tobacco bZIP transcription factor BZI - 1 </GENE> interacts with the <GENE> ankyrin - repeat protein ANK1 </GENE> and is important for <GENE> BZI - 1 </GENE> function , both in auxin signaling and pathogen response .
+<GENE> AB - The tobacco ( Nicotiana tabacum ) bZIP transcription factor BZI - 1 </GENE> is involved in auxin - mediated growth responses and in establishing pathogen defenses .
+Transgenic plants expressing a dominant - negative BZI - 1 - DeltaN derivative , which lacks the N - terminal activation domain , showed altered vegetative growth .
+In particular auxin - induced rooting and formation of tobacco mosaic virus - induced hypersensitive response lesions are affected .
+<GENE> BZI - 1 - related proteins </GENE> described in various plant species share the conserved domains D1 , D2 , BD , and D4 .
+To define those BZI - 1 domains involved in transcription factor function , <GENE> BZI - 1 deletion derivatives </GENE> were expressed in transgenic plants .
+The domains D1 or BD are crucial for <GENE> BZI - 1 </GENE> - <GENE> DeltaN </GENE> function in planta .
+The basic BD domain is mediating DNA binding of <GENE> BZI - 1 </GENE> .
+Yeast two - hybrid and in vitro binding studies reveal the <GENE> ankyrin </GENE> - repeat protein <GENE> ANK1 </GENE> , which specifically interacts with a part of the <GENE> BZI - 1 protein </GENE> ( amino acids 73 - 222 ) encoding the <GENE> D1 domain </GENE> .
+<GENE> ANK1 </GENE> does not bind DNA or act as a co - activator of <GENE> BZI - 1 </GENE> - mediated transcription .
+Moreover , green fluorescence protein localization studies propose that <GENE> ANK1 </GENE> is acting mainly inside the cytosol .
+Transcription analysis reveals that <GENE> ANK1 </GENE> is ubiquitously expressed , but after pathogen attack transcription is transiently down - regulated .
+Along these lines , <GENE> ANK1 </GENE> homologous proteins in Arabidopsis thaliana have been reported to function in pathogen defense .
+We therefore propose that the <GENE> D1 domain </GENE> serves as an interaction surface for <GENE> ANK1 </GENE> , which appears to regulate <GENE> BZI - 1 </GENE> function in auxin signaling as well as pathogen response .
+PMID - 19825600
+<GENE> TI - RIP1 </GENE> ( <GENE> ROP </GENE> Interactive Partner 1 ) / <GENE> ICR1 </GENE> marks pollen germination sites and may act in the <GENE> ROP1 </GENE> pathway in the control of polarized pollen growth .
+<GENE> AB - Rho family small GTPases </GENE> are universal signaling switches in the control of cell polarity in eukaryotic cells .
+Their polar distribution to the cell cortex is critical for the execution of their functions , yet the mechanism for this distribution is poorly understood .
+Using a yeast two - hybrid method , we identified <GENE> RIP1 </GENE> ( <GENE> ROP </GENE> interactive <GENE> partner 1 </GENE> ) , which belongs to a family of five members of novel proteins that share a C - terminal region that interacts with <GENE> ROP </GENE> .
+When expressed in Arabidopsis pollen , green fluorescence protein GFP - tagged <GENE> RIP1 </GENE> was localized to the nucleus of mature pollen .
+When pollen grains were hydrated in germination medium , <GENE> GFP - RIP1 </GENE> switched from the nucleus to the cell cortex at the future pollen germination site and was maintained in the apical cortex of germinating pollen and growing pollen tubes .
+<GENE> RIP1 </GENE> was found to interact with <GENE> ROP1 </GENE> in pollen tubes , and the cortical <GENE> RIP1 </GENE> localization was influenced by the activity of <GENE> ROP1 </GENE> .
+Overexpression of <GENE> RIP1 </GENE> induced growth depolarization in pollen tubes , a phenotype similar to that induced by <GENE> ROP1 </GENE> overexpression .
+Interestingly , <GENE> RIP1 </GENE> overexpression enhanced <GENE> GFP </GENE> - <GENE> ROP1 </GENE> recruitment to the plasma membrane ( PM ) of pollen tubes .
+Based on these observations , we hypothesize that <GENE> RIP1 </GENE> is involved in the positive feedback regulation of <GENE> ROP1 </GENE> localization to the PM , leading to the establishment of a polar site for pollen germination and pollen tube growth .
+PMID - 23370718
+TI - PYRABACTIN <GENE> RESISTANCE1 </GENE> - <GENE> LIKE8 </GENE> plays an important role for the regulation of abscisic acid signaling in root .
+AB - Abscisic acid ( ABA ) signaling plays a critical role in regulating root growth and root system architecture .
+ABA - mediated growth promotion and root tropic response under water stress are key responses for plant survival under limiting water conditions .
+In this work , we have explored the role of Arabidopsis ( Arabidopsis thaliana ) <GENE> PYRABACTIN RESISTANCE1 </GENE> ( <GENE> PYR1 </GENE> ) / <GENE> PYR1 </GENE> - <GENE> LIKE </GENE> ( <GENE> PYL </GENE> ) / REGULATORY COMPONENTS OF ABA RECEPTORS for root ABA signaling .
+As a result , we discovered that <GENE> PYL8 </GENE> plays a nonredundant role for the regulation of root ABA sensitivity .
+Unexpectedly , given the multigenic nature and partial functional redundancy observed in the <GENE> PYR </GENE> / <GENE> PYL </GENE> family , the single <GENE> pyl8 mutant </GENE> showed reduced sensitivity to ABA - mediated root growth inhibition .
+This effect was due to the lack of <GENE> PYL8 </GENE> - mediated inhibition of several <GENE> clade A phosphatases type 2C </GENE> ( <GENE> PP2Cs </GENE> ) , since <GENE> PYL8 </GENE> interacted in vivo with atleast five PP2Cs , namely HYPERSENSITIVE TO <GENE> ABA1 </GENE> ( <GENE> HAB1 </GENE> ) , <GENE> HAB2 </GENE> , <GENE> ABA - INSENSITIVE1 </GENE> ( <GENE> ABI1 </GENE> ) , <GENE> ABI2 </GENE> , and PP2CA / ABA - HYPERSENSITIVE GERMINATION3 as revealed by tandem affinity purification and mass spectrometry proteomic approaches .
+We also discovered that <GENE> PYR </GENE> / <GENE> PYL receptors </GENE> and clade A PP2Cs are crucial for the hydrotropic response that takes place to guide root growth far from regions with low water potential .
+Thus , an ABA - hypersensitive pp2c quadruple mutant showed enhanced hydrotropism , whereas an ABA - insensitive sextuple pyr / pyl mutant showed reduced hydrotropic response , indicating that ABA - dependent inhibition of <GENE> PP2Cs </GENE> by <GENE> PYR </GENE> / <GENE> PYLs </GENE> is required for the proper perception of a moisture gradient .
+PMIDEND
